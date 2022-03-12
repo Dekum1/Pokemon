@@ -1,0 +1,47 @@
+[RMXP] Pokemon Script Project - 2nd Beta
+Version 0.7 - 09/09/08
+Par Krosk
+
+Le contenu actuel de Pokemon Script Project est le fruit du travail de quelques personnes.
+
+Par ordre alphabétique, ainsi que leur contribution à la mise à jour actuelle :
+
+bibiantonio (animations d'attaques, ressources)
+DJStarmix (base de données attaque/évolution 4G)
+Drakhaine (fonction du menu Debug, codage évolution 4G)
+ghioa (animations d'attaques)
+Krosk (noyau script, réintégration 4G)
+Link (ressources animations)
+Louro (carte dresseur)
+Mortenkein (ressources tileset et animations)
+Shaolan (modèle du Pokédex)
+Slash53 (sprites Pokémons 4G, rips divers 4G)
+speed (data_pokemon.txt, partie 4G)
+Sphinx (codage évolution 4G, suggestions)
+
+[PSP] Pokémon Script Project 5G
+Version 0.4
+Par Zohran
+
+Crédits non ordonnés :
+Sphinx, Endoh, MoussPSP, Nuri Yuri, 
+Slash, Krosk, Zelda, Ergg, Pichou,
+Dymew, Lén, DJStarmix, Ghioa, Spiky,
+ITA, Louro, Speed, Jordan, Warpras,
+TyranitarDark, New Titeuf, Ace, Link, Wesker,
+Light-PA, Palbolsky, Bibiantonio, Miniyas, 
+NT, RMXPStudio, Denis bros, Mister-K,
+BoOmxBig, Shaolan, Empire1601, Mortenkein
+
+[PSP] Graphismes des Pokémon 5G
+sansonic, KaiserYoshi et Mortenkein
+
+[PSP] Script de stockage des Objets
+Néva
+
+[PSP] Machine à sous (casino)
+Nuri Yuri : Script (Tous droits réservés)
+Kezal & Guille-Kun : Ressources
+
+Corrections
+FL0RENT_ : Data Pokémon (data_pokemon.txt), changements apportés sur la version 0.8.6, Corrections script version 0.8.7

@@ -1,0 +1,4 @@
+--- Chargement des Pokémons : Détails ---
+Liste des problèmes :
+ONGLET ID : nature du problème
+EVOLUTION 42 : Manque code évolution par bonheur.

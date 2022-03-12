@@ -1,0 +1,25 @@
+Changelog version 0.8.7 :
+Ajouté : Possibilité de changer les Ball des Pokémon ennemis avec ' "BALL" => ID '.
+Corrections mineures sur certaines cap.spé
+Correction d'un bug avec les niveaux des Pokémon sauvages.
+Correction d'un bug graphique lors des évolutions. (correction postée sur le forum - http://communityscriptproject.com/forum)
+Correction d'un bug avec l'écart de niveaux des Pokémon sauvages.
+L'AI ne spamme plus dévoréve. (correction postée sur le forum - http://communityscriptproject.com/forum)
+
+Changelog version 0.8.6 :
+Ajouté : Formes d'ARCEUS + Attaque jugement fonctionelle
+Ajouté : Formes de Giratina (WIP : Manque la cap.spé)
+Ajouté : Types des formes de motisma
+Ajouté : Cap.spé Météo fonctionelle
+Métronome affiche maintenant les noms des attaques utilisées (En revanche l'attaque en elle même est toujours aussi buggée.)
+Corrigé : Cap Spé Garde mystique faisait l'inverse le l'effet voulu et bloquait également les capacités de boost.
+Corrigé : Cap Spé Sécheresse déclanchait des tempetes de sable.
+Corrigé : formes alternatives des pokémon des dresseurs ne sont plus forcées a être shiny.
+Ajout des movepools de Karaclée jusqu'a Lançargot.(WIP, seulement rajouté une quinzaine, reste 36 a implémenter(de Chlorobulle a Sorbouboul))
+Correction du non respect de la casse dans de nombreux scripts.
++ De tilsets préparamétrés.
+
+
+Appliqué : correctif 7 de Krosk
+           correctif scene_map de Nuri Yuri
+           Script météo de Krosk
