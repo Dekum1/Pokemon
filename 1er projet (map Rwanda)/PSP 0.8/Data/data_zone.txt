@@ -1,0 +1,23 @@
+﻿#-------------------------------------------------------------
+# Fichier de données : Zones
+# Pokemon Script Project - Krosk
+# 08/05/08
+#-------------------------------------------------------------
+# $data_zone
+#   [Nom]
+#-------------------------------------------------------------
+
+  $data_zone[1] = ["KAMEMBE", "panel4.png"]
+  $data_zone[2] = ["ROUTE 1", "panel1.png"]
+  $data_zone[3] = ["KARONGI", "panel4.png"]
+  $data_zone[4] = ["ROUTE 2", "panel1.png"]
+  $data_zone[5] = ["BINANA", "panel4.png"]
+  $data_zone[6] = ["ROUTE 3", "panel1.png"]
+  $data_zone[7] = ["CAVERNE ALPHA", "panel3.png"]
+  $data_zone[8] = ["KIGALI OUEST", "panel4.png"]
+  $data_zone[9] = ["KIGALI CENTRE", "panel4.png"]
+  $data_zone[10] = ["KIGALI SUD", "panel4.png"]
+  $data_zone[11] = ["KIGALI NORD", "panel4.png"]
+  $data_zone[12] = ["KIGALI EST", "panel4.png"]
+  $data_zone[13] = ["KIGALI", "panel4.png"]
+  $data_zone[14] = ["ROUTE 4", "panel1.png"]

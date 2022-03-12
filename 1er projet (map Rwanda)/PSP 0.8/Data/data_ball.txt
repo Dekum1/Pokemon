@@ -1,0 +1,21 @@
+﻿#-------------------------------------------------------------
+# Fichier de données : balles de captures
+# Pokemon Script Project - Krosk
+# 31/12/07
+#-------------------------------------------------------------
+# $data_ball
+#   [Nom, paramètre, sprite fermé, sprite ouvert, Couleur]
+#   sprite fermé/ouvert : image au format png
+#   paramètre : paramètres de capture
+#   couleur : class Color
+#-------------------------------------------------------------
+
+$data_ball[1] = ["POKé BALL", 1, "ball1", "ballopen1.png", Color.new(255,210,233,255)]
+$data_ball[2] = ["SUPER BALL", 1.5, "ball2", "ballopen2.png", Color.new(0,157,255,255)]
+$data_ball[3] = ["HYPER BALL", 2, "ball3", "ballopen3.png", Color.new(255,242,0,255)]
+$data_ball[4] = ["MASTER BALL", 999, "ball4", "ballopen4.png", Color.new(255,0,242,255)]
+$data_ball[5] = ["FILET BALL", ["type", [3, 12], 3 ], "ball5", "ballopen5.png", Color.new(152,248,168,255)]
+$data_ball[6] = ["FAIBLO BALL", ["level", "(40 - %d)/10.0" ], "ball6", "ballopen6.png", Color.new(152,248,56,255)]
+$data_ball[9] = ["CHRONO BALL", ["time", "(%d+10)/10.0", 4 ], "ball9", "ballopen9.png", Color.new(216,96,80,255)]
+$data_ball[10] = ["HONOR BALL", 1, "ball10", "ballopen10.png", Color.new(208,40,40,255)]
+$data_ball[11] = ["LUXE BALL", 1, "ball11", "ballopen11.png", Color.new(248,216,104,255)]
