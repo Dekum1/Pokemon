@@ -21,3 +21,4 @@
   $data_zone[12] = ["KIGALI EST", "panel4.png"]
   $data_zone[13] = ["KIGALI", "panel4.png"]
   $data_zone[14] = ["ROUTE 4", "panel1.png"]
+  $data_zone[15] = ["ROUTE 5", "panel1.png"]

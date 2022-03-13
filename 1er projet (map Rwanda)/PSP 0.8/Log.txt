@@ -1,4 +1,4 @@
----------- Erreur de script : Pokemon_Battle_Trainer ----------
+---------- Erreur de script : Pokemon_Battle_Wild ----------
 ----- Type
 NoMethodError
 
@@ -6,25 +6,14 @@ NoMethodError
 - ARGS - []
 undefined method `dead?' for nil:NilClass
 
------ Position dans Pokemon_Battle_Trainer
-Ligne 126
+----- Position dans Pokemon_Battle_Wild
+Ligne 81
 
 ----- Backtrace
-Script : Pokemon_Battle_Trainer | Ligne : 126 | Méthode : in `initialize'
-Script : Interpreter | Ligne : 62 | Méthode : in `new'
-Script : Interpreter | Ligne : 62 | Méthode : in `call_battle_trainer'
-Script : Interpreter Bis | Ligne : 181 | Méthode : in `command_301'
-Script : Interpreter 2 | Ligne : 151 | Méthode : in `execute_command'
-Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
-Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
-Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
-Script : Game_Event | Ligne : 221 | Méthode : in `update'
-Script : Game_Map | Ligne : 393 | Méthode : in `update'
-Script : Game_Map | Ligne : 392 | Méthode : in `each'
-Script : Game_Map | Ligne : 392 | Méthode : in `update'
-Script : Scene_Map | Ligne : 47 | Méthode : in `alias_update'
-Script : Scene_Map | Ligne : 46 | Méthode : in `loop'
-Script : Scene_Map | Ligne : 59 | Méthode : in `alias_update'
+Script : Pokemon_Battle_Wild | Ligne : 81 | Méthode : in `initialize'
+Script : Scene_Map | Ligne : 302 | Méthode : in `new'
+Script : Scene_Map | Ligne : 302 | Méthode : in `call_battle'
+Script : Scene_Map | Ligne : 133 | Méthode : in `alias_update'
 Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
 Script : Scene_Map | Ligne : 25 | Méthode : in `main'
 Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
