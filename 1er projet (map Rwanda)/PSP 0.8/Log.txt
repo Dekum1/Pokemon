@@ -1,23 +1,26 @@
----------- Erreur de script : évènement ----------
+---------- Erreur de script : Interpreter Bis ----------
 ----- Type
 NoMethodError
 
 ----- Message
-- ARGS - [19, 1]
-(eval):1:in `command_355'undefined method `ajouter_renommer_pokemon' for #<Interpreter:0x11e6c848>
+- ARGS - []
+Section110:1063:in `effectif_equipe'undefined method `egg?' for #<POKEMON_S::Pokemon:0x11ecba18>
 
------ Position de l'évènement
-MAP 19 EVENT 4
-SCRIPT
-ajouter_renommer_pokemon(19,1)
-
+----- Position dans Interpreter Bis
+Ligne 268
 
 ----- Backtrace
-Script : Interpreter Bis | Ligne : 444 | Méthode : in `command_355'
-Script : Interpreter 2 | Ligne : 215 | Méthode : in `eval'
-Script : Interpreter Bis | Ligne : 444 | Méthode : in `command_355'
-Script : Interpreter 2 | Ligne : 215 | Méthode : in `execute_command'
+Script : Interpreter Bis | Ligne : 268 | Méthode : in `command_111'
+Script : Interpreter | Ligne : 1062 | Méthode : in `each'
+Script : Interpreter | Ligne : 1062 | Méthode : in `effectif_equipe'
+Script : Loading | Ligne : 1 | Méthode : in `command_111'
+Script : Interpreter 2 | Ligne : 41 | Méthode : in `eval'
+Script : Interpreter Bis | Ligne : 268 | Méthode : in `command_111'
+Script : Interpreter 2 | Ligne : 41 | Méthode : in `execute_command'
 Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
+Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
+Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
+Script : Interpreter 1 | Ligne : 130 | Méthode : in `update'
 Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
 Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
 Script : Scene_Map | Ligne : 48 | Méthode : in `alias_update'
