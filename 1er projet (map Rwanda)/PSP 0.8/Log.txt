@@ -4,23 +4,17 @@ NoMethodError
 
 ----- Message
 - ARGS - []
-Section110:1063:in `effectif_equipe'undefined method `egg?' for #<POKEMON_S::Pokemon:0x11ecba18>
+(eval):1:in `command_111'undefined method `front_terrain_tag' for #<Game_Player:0xece6298>
 
 ----- Position dans Interpreter Bis
 Ligne 268
 
 ----- Backtrace
 Script : Interpreter Bis | Ligne : 268 | Méthode : in `command_111'
-Script : Interpreter | Ligne : 1062 | Méthode : in `each'
-Script : Interpreter | Ligne : 1062 | Méthode : in `effectif_equipe'
-Script : Loading | Ligne : 1 | Méthode : in `command_111'
 Script : Interpreter 2 | Ligne : 41 | Méthode : in `eval'
 Script : Interpreter Bis | Ligne : 268 | Méthode : in `command_111'
 Script : Interpreter 2 | Ligne : 41 | Méthode : in `execute_command'
 Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
-Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
-Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
-Script : Interpreter 1 | Ligne : 130 | Méthode : in `update'
 Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
 Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
 Script : Scene_Map | Ligne : 48 | Méthode : in `alias_update'

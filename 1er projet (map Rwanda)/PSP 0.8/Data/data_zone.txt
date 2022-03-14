@@ -23,3 +23,7 @@
   $data_zone[14] = ["ROUTE 4", "panel1.png"]
   $data_zone[15] = ["ROUTE 5", "panel1.png"]
   $data_zone[16] = ["GASHORA", "panel4.png"]
+  $data_zone[17] = ["ROUTE 6", "panel1.png"]
+  $data_zone[18] = ["CHANAL MUGESERA", "panel2.png"]
+  $data_zone[19] = ["LAC MUGESERA", "panel2.png"]
+  $data_zone[20] = ["GROTTE CARAPUCE", "panel3.png"]
