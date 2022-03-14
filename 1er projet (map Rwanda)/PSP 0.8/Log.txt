@@ -1,19 +1,28 @@
----------- Erreur de script : Pokemon_Battle_Wild ----------
+---------- Erreur de script : évènement ----------
 ----- Type
 NoMethodError
 
 ----- Message
-- ARGS - []
-undefined method `dead?' for nil:NilClass
+- ARGS - [19, 1]
+(eval):1:in `command_355'undefined method `ajouter_renommer_pokemon' for #<Interpreter:0x11e6c848>
 
------ Position dans Pokemon_Battle_Wild
-Ligne 81
+----- Position de l'évènement
+MAP 19 EVENT 4
+SCRIPT
+ajouter_renommer_pokemon(19,1)
+
 
 ----- Backtrace
-Script : Pokemon_Battle_Wild | Ligne : 81 | Méthode : in `initialize'
-Script : Scene_Map | Ligne : 302 | Méthode : in `new'
-Script : Scene_Map | Ligne : 302 | Méthode : in `call_battle'
-Script : Scene_Map | Ligne : 133 | Méthode : in `alias_update'
+Script : Interpreter Bis | Ligne : 444 | Méthode : in `command_355'
+Script : Interpreter 2 | Ligne : 215 | Méthode : in `eval'
+Script : Interpreter Bis | Ligne : 444 | Méthode : in `command_355'
+Script : Interpreter 2 | Ligne : 215 | Méthode : in `execute_command'
+Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
+Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
+Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
+Script : Scene_Map | Ligne : 48 | Méthode : in `alias_update'
+Script : Scene_Map | Ligne : 46 | Méthode : in `loop'
+Script : Scene_Map | Ligne : 59 | Méthode : in `alias_update'
 Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
 Script : Scene_Map | Ligne : 25 | Méthode : in `main'
 Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
