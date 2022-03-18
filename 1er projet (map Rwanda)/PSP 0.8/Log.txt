@@ -1,21 +1,19 @@
----------- Erreur de script : Pokemon_Battle_Wild ----------
+---------- Erreur de script : Pokemon_Battle_Core 2 ----------
 ----- Type
-NoMethodError
+FloatDomainError
 
 ----- Message
-- ARGS - []
-undefined method `dead?' for nil:NilClass
+Infinity
 
------ Position dans Pokemon_Battle_Wild
-Ligne 81
+----- Position dans Pokemon_Battle_Core 2
+Ligne 99
 
 ----- Backtrace
-Script : Pokemon_Battle_Wild | Ligne : 81 | Méthode : in `initialize'
-Script : Scene_Map | Ligne : 302 | Méthode : in `new'
-Script : Scene_Map | Ligne : 302 | Méthode : in `call_battle'
-Script : Scene_Map | Ligne : 133 | Méthode : in `alias_update'
-Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
-Script : Scene_Map | Ligne : 25 | Méthode : in `main'
-Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
-Script : Scene_Map | Ligne : 30 | Méthode : in `main'
+Script : Pokemon_Battle_Core 2 | Ligne : 99 | Méthode : in `Integer'
+Script : Pokemon_Battle_Core 2 | Ligne : 99 | Méthode : in `run_able?'
+Script : Pokemon_Battle_Core 1 | Ligne : 1572 | Méthode : in `run'
+Script : Pokemon_Battle_Core 1 | Ligne : 367 | Méthode : in `update'
+Script : Pokemon_Battle_Core 1 | Ligne : 153 | Méthode : in `main'
+Script : Pokemon_Battle_Core 1 | Ligne : 150 | Méthode : in `loop'
+Script : Pokemon_Battle_Core 1 | Ligne : 157 | Méthode : in `main'
 Script : Main | Ligne : 57
