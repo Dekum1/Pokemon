@@ -29,3 +29,5 @@
   $data_zone[20] = ["GROTTE CARAPUCE", "panel3.png"]
   $data_zone[21] = ["ROUTE 7", "panel1.png"]
   $data_zone[22] = ["BUTARE", "panel4.png"]
+  $data_zone[23] = ["MONT MUGOGWE", "panel3.png"]
+  $data_zone[24] = ["ROUTE 8", "panel1.png"]
