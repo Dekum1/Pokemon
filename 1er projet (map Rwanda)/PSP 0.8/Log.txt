@@ -1,19 +1,28 @@
----------- Erreur de script : Pokemon_Battle_Core 2 ----------
+---------- Erreur de script : Pokemon_Battle_Trainer ----------
 ----- Type
-FloatDomainError
+NoMethodError
 
 ----- Message
-Infinity
+- ARGS - []
+undefined method `reset_stat_stage' for nil:NilClass
 
------ Position dans Pokemon_Battle_Core 2
-Ligne 99
+----- Position dans Pokemon_Battle_Trainer
+Ligne 153
 
 ----- Backtrace
-Script : Pokemon_Battle_Core 2 | Ligne : 99 | Méthode : in `Integer'
-Script : Pokemon_Battle_Core 2 | Ligne : 99 | Méthode : in `run_able?'
-Script : Pokemon_Battle_Core 1 | Ligne : 1572 | Méthode : in `run'
-Script : Pokemon_Battle_Core 1 | Ligne : 367 | Méthode : in `update'
-Script : Pokemon_Battle_Core 1 | Ligne : 153 | Méthode : in `main'
-Script : Pokemon_Battle_Core 1 | Ligne : 150 | Méthode : in `loop'
-Script : Pokemon_Battle_Core 1 | Ligne : 157 | Méthode : in `main'
+Script : Pokemon_Battle_Trainer | Ligne : 153 | Méthode : in `initialize'
+Script : Interpreter | Ligne : 62 | Méthode : in `new'
+Script : Interpreter | Ligne : 62 | Méthode : in `call_battle_trainer'
+Script : Interpreter Bis | Ligne : 181 | Méthode : in `command_301'
+Script : Interpreter 2 | Ligne : 151 | Méthode : in `execute_command'
+Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
+Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
+Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
+Script : Scene_Map | Ligne : 48 | Méthode : in `alias_update'
+Script : Scene_Map | Ligne : 46 | Méthode : in `loop'
+Script : Scene_Map | Ligne : 59 | Méthode : in `alias_update'
+Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
+Script : Scene_Map | Ligne : 25 | Méthode : in `main'
+Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
+Script : Scene_Map | Ligne : 30 | Méthode : in `main'
 Script : Main | Ligne : 57
