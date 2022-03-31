@@ -40,3 +40,4 @@
   $data_zone[31] = ["CHANAL 1", "panel2.png"]
   $data_zone[32] = ["CHANAL 2", "panel2.png"]
   $data_zone[33] = ["LAC CYAMBWE", "panel2.png"]
+  $data_zone[34] = ["MARCHÉ KAMEMBE", "panel4.png"]
