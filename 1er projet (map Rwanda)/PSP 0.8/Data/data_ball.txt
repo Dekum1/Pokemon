@@ -17,5 +17,5 @@ $data_ball[4] = ["MASTER BALL", 999, "ball4", "ballopen4.png", Color.new(255,0,2
 $data_ball[5] = ["FILET BALL", ["type", [3, 12], 3 ], "ball5", "ballopen5.png", Color.new(152,248,168,255)]
 $data_ball[6] = ["FAIBLO BALL", ["level", "(40 - %d)/10.0" ], "ball6", "ballopen6.png", Color.new(152,248,56,255)]
 $data_ball[9] = ["CHRONO BALL", ["time", "(%d+10)/10.0", 4 ], "ball9", "ballopen9.png", Color.new(216,96,80,255)]
-$data_ball[10] = ["HONOR BALL", 1, "ball10", "ballopen10.png", Color.new(208,40,40,255)]
+$data_ball[10] = ["HONOR BALL", 5, "ball10", "ballopen10.png", Color.new(208,40,40,255)]
 $data_ball[11] = ["LUXE BALL", 1, "ball11", "ballopen11.png", Color.new(248,216,104,255)]
