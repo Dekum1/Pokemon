@@ -1,21 +1,19 @@
----------- Erreur de script : Pokemon_Battle_Wild ----------
+---------- Erreur de script : Pokemon_Save ----------
 ----- Type
-NoMethodError
+ArgumentError
 
 ----- Message
-- ARGS - []
-undefined method `dead?' for nil:NilClass
+time must be positive
 
------ Position dans Pokemon_Battle_Wild
-Ligne 81
+----- Position dans Pokemon_Save
+Ligne 45
 
 ----- Backtrace
-Script : Pokemon_Battle_Wild | Ligne : 81 | Méthode : in `initialize'
-Script : Scene_Map | Ligne : 302 | Méthode : in `new'
-Script : Scene_Map | Ligne : 302 | Méthode : in `call_battle'
-Script : Scene_Map | Ligne : 133 | Méthode : in `alias_update'
-Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
-Script : Scene_Map | Ligne : 25 | Méthode : in `main'
-Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
-Script : Scene_Map | Ligne : 30 | Méthode : in `main'
+Script : Pokemon_Save | Ligne : 45 | Méthode : in `at'
+Script : Pokemon_Save | Ligne : 45 | Méthode : in `initialize'
+Script : Pokemon_Menu | Ligne : 184 | Méthode : in `new'
+Script : Pokemon_Menu | Ligne : 184 | Méthode : in `update'
+Script : Pokemon_Menu | Ligne : 75 | Méthode : in `main'
+Script : Pokemon_Menu | Ligne : 72 | Méthode : in `loop'
+Script : Pokemon_Menu | Ligne : 86 | Méthode : in `main'
 Script : Main | Ligne : 57
