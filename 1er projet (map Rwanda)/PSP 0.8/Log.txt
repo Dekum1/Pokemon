@@ -1,19 +1,19 @@
----------- Erreur de script : Pokemon_Save ----------
+---------- Erreur de script : Pokemon_Battle_Core 2 ----------
 ----- Type
-ArgumentError
+NoMethodError
 
 ----- Message
-time must be positive
+- ARGS - []
+undefined method `target' for nil:NilClass
 
------ Position dans Pokemon_Save
-Ligne 45
+----- Position dans Pokemon_Battle_Core 2
+Ligne 171
 
 ----- Backtrace
-Script : Pokemon_Save | Ligne : 45 | Méthode : in `at'
-Script : Pokemon_Save | Ligne : 45 | Méthode : in `initialize'
-Script : Pokemon_Menu | Ligne : 184 | Méthode : in `new'
-Script : Pokemon_Menu | Ligne : 184 | Méthode : in `update'
-Script : Pokemon_Menu | Ligne : 75 | Méthode : in `main'
-Script : Pokemon_Menu | Ligne : 72 | Méthode : in `loop'
-Script : Pokemon_Menu | Ligne : 86 | Méthode : in `main'
+Script : Pokemon_Battle_Core 2 | Ligne : 171 | Méthode : in `attack_action'
+Script : Pokemon_Battle_Core 1 | Ligne : 546 | Méthode : in `phase3'
+Script : Pokemon_Battle_Core 1 | Ligne : 409 | Méthode : in `update'
+Script : Pokemon_Battle_Core 1 | Ligne : 153 | Méthode : in `main'
+Script : Pokemon_Battle_Core 1 | Ligne : 150 | Méthode : in `loop'
+Script : Pokemon_Battle_Core 1 | Ligne : 157 | Méthode : in `main'
 Script : Main | Ligne : 57
