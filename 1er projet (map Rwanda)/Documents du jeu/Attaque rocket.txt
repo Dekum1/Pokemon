@@ -1,18 +1,14 @@
-après la 6ème ou 7ème arène ?
+après la 6ème (niv. 51)
 
-~niv. 50 - 55
+objectif eclaisir les données sur cette mistérieuse explosion.
 
-objectif battre les 5 cadres Rocket éparpillé dans la map.
+1. Inspection sur l'explosion (Binana puis, marchée de Kamembe). (~niv.50 - 55) / boss
 
-1. Route 1 : Maison Red
-2. Binana : Maison Rocket
-3. Lac Mugesara : Grotte carapuce
-4. Nkombo Island : Centre de recherche + chanal
-5. Kigali
+2. Battre des 5 cadres Rocket éparpillé sur la map (~55 - 60) / boss
+-. Route 1 : Maison Red
+-. Caverne Alpha : base Rocket
+-. Lac Mugesara : Grotte carapuce
+-. Nkombo Island : chanal
+-. Nkombo Island : Centre de recherche
 
-
-~niv. 50
-
-Il y aura également des membres éparpillé sur les routes déjà visitées sans cadre :
-- Caverne Aplha
-...
+3. Battre de cadre sup. Kigali Centre. (60 - 65) / boss
