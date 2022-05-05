@@ -1,19 +1,20 @@
 Arènes :
-1 - 15
-2 - 27
-3 - 32
-4 - 39
-5 - 43
-6 - 51
-7 - 70
-8 - 75
+1, Laure - 15 / Normal
+2, Luca - 27 / Roche
+3, Benji - 32 / Insecte
+4, Adrian - 39 / Eau
+5, Imelda - 43 / Combat
+6, Hödré - 51 / Vol
+7, Céline - 70 / Électrique
+8, Jason - 75 / Sol
 
 Ligue :
-1 - 81
-2 - 83
-3 - 85
-4 - 87
-5 - 89 / 91
+1, Rachel - 81 / Glace + spectre (lipouttou)
+2, Ruben - 83 / Plante + poison (florizarre)
+3, Mel - 85 / Feu + fée (feunard)
+4, Elise - 87 / Psy + ténèbres (Alakazam)
+5, Jonas - 5.1 - 89 / Acier (Tortank)
+    5.2 - 91 / Dragon (Dracolosse)
 
 
 
