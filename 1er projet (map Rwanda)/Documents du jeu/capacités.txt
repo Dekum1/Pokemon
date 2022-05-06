@@ -9,3 +9,15 @@ Pokemon
 { "NV" => 47, "MOVE" => ["BEC VRILLE", "ATTERRISSAGE", "VIBROBSCUR", "TONNERRE"] }
 { "NV" => 49, "MOVE" => ["HYDROCANON", "BLIZZARD", "CROCHETVENIN", "TONNERRE"] }
 { "NV" => 51, "MOVE" => ["AEROPIQUE", "POUV.ANTIQUE", "PSYKO", "TONNERRE"] }
+
+{ "NV" => 67, "MOVE" => ["CAGE-ECLAIR", "VIT .EXTREME", "CROCS ECLAIR", "MACHOUILLE"] }
+{ "NV" => 68, "MOVE" => ["POUV.ANTIQUE", "ULTRALASER", "ELECANON", "GYROBALLE"] }
+{ "NV" => 69, "MOVE" => ["SEISME", "TONNERRE", "CLOSE COMBAT", "BALL'OMBRE"] }
+{ "NV" => 70, "MOVE" => ["SURF", "PSYKO", "NITROCHARGE", "FATAL-FOUDRE"] }
+raitchu
+magneton
+voltrobe
+electec
+voltali
+
+magneton, voltali, electec, raichu
