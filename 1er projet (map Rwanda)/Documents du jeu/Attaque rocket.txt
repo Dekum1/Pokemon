@@ -8,7 +8,20 @@ objectif eclaisir les données sur cette mistérieuse explosion.
 -. Route 1 : Maison Red - ok
 -. Caverne Alpha : base Rocket - ok
 -. Lac Mugesara : Grotte carapuce - ok
--. Nkombo Island : chanal
 -. Nkombo Island : Centre de recherche
+-. Nkombo Island : chanal
 
-3. Battre de cadre sup. Kigali Centre. (60 - 65) / boss
+après la ligue pokémon
+
+3. Saga des Capitaines
+ 3.1 - Ariane (laboratoire Kigali Nord) - Magnezone
+ 3.2 - Amos (Mont. Nyakabanda) - Maganon
+ 3.3 - Lambda (Ischwa Island) - Hyporoi
+ 3.4 - Lance (Mont. Mugogwe) - Elecable
+
+4. Agents spéciaux (ruines Nyamisangi)
+ 4.1 - Jessie (Hyporoi)
+ 4.2 - James (Steelix)
+
+5. Giovanni (Mont Nyamisangi)
+ 5.1 - Persian, Nostenfer, Kabutops, Hyporoi, Rinastock, Steelix
