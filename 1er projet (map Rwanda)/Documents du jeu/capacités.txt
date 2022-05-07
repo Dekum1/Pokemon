@@ -14,10 +14,6 @@ Pokemon
 { "NV" => 68, "MOVE" => ["POUV.ANTIQUE", "ULTRALASER", "ELECANON", "GYROBALLE"] }
 { "NV" => 69, "MOVE" => ["SEISME", "TONNERRE", "CLOSE COMBAT", "BALL'OMBRE"] }
 { "NV" => 70, "MOVE" => ["SURF", "PSYKO", "NITROCHARGE", "FATAL-FOUDRE"] }
-raitchu
-magneton
-voltrobe
-electec
-voltali
 
-magneton, voltali, electec, raichu
+{ "NV" => 73, "MOVE" => ["GIGA IMPACT", "PSYKOUD'BOUL", "SEISME", "DANSE-FLEUR"] }
+{ "NV" => 75, "MOVE" => ["SEISME", "ULTRALASER", "LANCE-FLAMME", "FATAL-FOUDRE"] }
