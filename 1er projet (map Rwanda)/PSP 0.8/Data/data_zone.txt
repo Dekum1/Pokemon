@@ -53,3 +53,5 @@
   $data_zone[44] = ["TEMPLE DRACO", "panel3.png"]
   $data_zone[45] = ["ROUTE 14", "panel1.png"]
   $data_zone[46] = ["KABARORE", "panel4.png"]
+  $data_zone[47] = ["ROUTE 15", "panel1.png"]
+  $data_zone[48] = ["CHANAL 4", "panel2.png"]
