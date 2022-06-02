@@ -57,3 +57,5 @@
   $data_zone[48] = ["CHANAL 4", "panel2.png"]
   $data_zone[49] = ["LAC BURERA", "panel2.png"]
   $data_zone[50] = ["ROUTE VICTOIRE", "panel3.png"]
+  $data_zone[51] = ["SENTIER ARDENT", "panel3.png"]
+  $data_zone[52] = ["CRATÈRE SALAMÈCHE", "panel3.png"]
