@@ -59,3 +59,4 @@
   $data_zone[50] = ["ROUTE VICTOIRE", "panel3.png"]
   $data_zone[51] = ["SENTIER ARDENT", "panel3.png"]
   $data_zone[52] = ["CRATÈRE SALAMÈCHE", "panel3.png"]
+  $data_zone[53] = ["LIGUE POKÉMON", "panel3.png"]

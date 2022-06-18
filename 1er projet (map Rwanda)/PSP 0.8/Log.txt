@@ -1,21 +1,21 @@
----------- Erreur de script : Pokemon_Battle_Wild ----------
+---------- Erreur de script : Game_System ----------
 ----- Type
-NoMethodError
+Errno::ENOENT
 
 ----- Message
-- ARGS - []
-undefined method `dead?' for nil:NilClass
+No such file or directory - Audio/BGS/switch-presentation-2017-trailer-music-the-legend-of-zelda-breath-of-the-wild-soundtrack-ost
 
------ Position dans Pokemon_Battle_Wild
-Ligne 81
+----- Position dans Game_System
+Ligne 85
 
 ----- Backtrace
-Script : Pokemon_Battle_Wild | Ligne : 81 | Méthode : in `initialize'
-Script : Scene_Map | Ligne : 302 | Méthode : in `new'
-Script : Scene_Map | Ligne : 302 | Méthode : in `call_battle'
-Script : Scene_Map | Ligne : 133 | Méthode : in `alias_update'
-Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
-Script : Scene_Map | Ligne : 25 | Méthode : in `main'
-Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
-Script : Scene_Map | Ligne : 30 | Méthode : in `main'
+Script : Game_System | Ligne : 85 | Méthode : in `bgs_play'
+Script : Game_System | Ligne : 85 | Méthode : in `bgs_play'
+Script : Game_Map | Ligne : 140 | Méthode : in `autoplay'
+Script : Scene_Title | Ligne : 138 | Méthode : in `alias_command_new_game'
+Script : Scene_Title | Ligne : 531 | Méthode : in `command_new_game'
+Script : Scene_Title | Ligne : 357 | Méthode : in `update'
+Script : Scene_Title | Ligne : 319 | Méthode : in `main'
+Script : Scene_Title | Ligne : 316 | Méthode : in `loop'
+Script : Scene_Title | Ligne : 323 | Méthode : in `main'
 Script : Main | Ligne : 57
