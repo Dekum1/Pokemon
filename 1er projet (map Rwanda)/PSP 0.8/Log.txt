@@ -1,21 +1,20 @@
----------- Erreur de script : Game_System ----------
+---------- Erreur de script : Pokemon_Item_Bag ----------
 ----- Type
-Errno::ENOENT
+NoMethodError
 
 ----- Message
-No such file or directory - Audio/BGS/switch-presentation-2017-trailer-music-the-legend-of-zelda-breath-of-the-wild-soundtrack-ost
+- ARGS - [0]
+undefined method `[]' for nil:NilClass
 
------ Position dans Game_System
-Ligne 85
+----- Position dans Pokemon_Item_Bag
+Ligne 581
 
 ----- Backtrace
-Script : Game_System | Ligne : 85 | Méthode : in `bgs_play'
-Script : Game_System | Ligne : 85 | Méthode : in `bgs_play'
-Script : Game_Map | Ligne : 140 | Méthode : in `autoplay'
-Script : Scene_Title | Ligne : 138 | Méthode : in `alias_command_new_game'
-Script : Scene_Title | Ligne : 531 | Méthode : in `command_new_game'
-Script : Scene_Title | Ligne : 357 | Méthode : in `update'
-Script : Scene_Title | Ligne : 319 | Méthode : in `main'
-Script : Scene_Title | Ligne : 316 | Méthode : in `loop'
-Script : Scene_Title | Ligne : 323 | Méthode : in `main'
+Script : Pokemon_Item_Bag | Ligne : 581 | Méthode : in `item_id'
+Script : Pokemon_Item_Bag | Ligne : 588 | Méthode : in `item_icon'
+Script : Pokemon_Item_Bag | Ligne : 288 | Méthode : in `refresh'
+Script : Pokemon_Item_Bag | Ligne : 151 | Méthode : in `update'
+Script : Pokemon_Item_Bag | Ligne : 131 | Méthode : in `main'
+Script : Pokemon_Item_Bag | Ligne : 115 | Méthode : in `loop'
+Script : Pokemon_Item_Bag | Ligne : 134 | Méthode : in `main'
 Script : Main | Ligne : 57

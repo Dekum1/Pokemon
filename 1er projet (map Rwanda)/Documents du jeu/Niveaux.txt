@@ -19,7 +19,7 @@ Ligue :
 2, Ruben - 83 / Plante + poison (florizarre)
 	Florizarre - 3 (plante + poison)	83
 	Nidoking - 34 (sol + poison)		81
-	Nosferalto - 42 (poison + vol)		81
+	Nosferalto - 42 (poison + vol)		81 -> Nostenfer
 	Aéromite - 49 (féé + poison)		79
 	Saquedeneu - 114 (plante)		77
 	Grostadmorv - 89 (poison)		75
@@ -30,7 +30,7 @@ Ligue :
 	Feunard - 38 (feu + fée)		85
 	Arkanin - 59 (feu)			83
 	Galopa - 78 (feu + fée)			83
-	Leveinard - 113 (Normal + fée)		77
+	Leveinard - 113 (Normal + fée)		77 -> Hyporoi
 
 4, Elise - 87 / Psy + ténèbres (Alakazam)
 	Roucarnage - 18 ( vol + psy)		85
@@ -43,7 +43,7 @@ Ligue :
 5, Jonas - 5.1 - 89 / Acier (Tortank)
 	Tortank - 9 (eau + acier)		89
 	Triopiqueur - 51 (sol + acier)		83
-	Magneton - 82 (électrique + acier)	85
+	Magneton - 82 (électrique + acier)	85 -> Magnezone
 	Kraboss - 99 (eau + acier)		87
 	Tygnon - 107 (combat + acier)		87
 	Porygon - 137 (acier)			81
@@ -52,7 +52,7 @@ Ligue :
 	Dracaufeu - 6 (feu + dragon)		89
 	Sablairau - 28 (sol + dragon)		83
 	Noadkoko - 103 (plante + dragon)	87
-	Hypocean - 117 (eau + dragon)		85
+	Hypocean - 117 (eau + dragon)		85 -> Ptéra
 	Leviator - 130 (eau + dragon)		89
 	Dracolosse - 149 (électrique + dragon)	91
 	

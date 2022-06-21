@@ -1,0 +1,63 @@
+Laure - Normal
+	20 : 	Rattatac	83
+	40 : 	Grodoudou	85
+	108 : 	Excelangue	85
+	113 : 	Leveinard	87
+	132 : 	Metamorph	87
+	143 : 	Ronflex		89
+
+Luca - Roche
+	139 : 	Amonistar
+	76 : 	Grolem
+	141 : 	Kabutosp
+	95 : 	Onix
+	112 : 	Rinoféros
+	142 : 	Ptéra
+
+Benji - Insecte
+	47 : 	Parasect	
+	12 : 	Papillusion
+	13 : 	Dardargnant
+	127 : 	Scarabrute
+	123 : 	Insécateur
+	141 : 	Kabutops
+
+Adrian - Eau
+	24 : 	Arbock
+	117 : 	Hypocean
+	62 : 	Tartard
+	131 : 	Loklass
+	130 : 	Leviator
+	9 : 	Tortank
+
+Imelda - Combat
+	105 : 	Ossatueur
+	85 : 	Dodrio
+	106 : 	Kicklee
+	107 : 	Tygnon
+	115 : 	Kangourex
+	68 : 	Mackogneur
+
+Hödré - Vol
+	12 : 	Papillusion
+	83 : 	Canartichaud
+	127 : 	Scarabrute
+	22 : 	Rapasdepic
+	42 : 	Nosferalto
+	18 : 	Roucarnage
+
+Céline - Electrique
+	101 : 	Electrode
+	135 : 	Voltali
+	125 : 	Electec
+	82 : 	Magneton
+	149 : 	Dracolosse
+	26 : 	Raitchu
+
+Jason - Sol
+	126 : 	Magmar
+	31 : 	Nidoqueen
+	34 : 	Nidoking
+	76 : 	Grolem
+	112 : 	Rinoféros
+	128 : 	Tauros
