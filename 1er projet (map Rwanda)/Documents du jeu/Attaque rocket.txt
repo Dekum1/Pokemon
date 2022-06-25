@@ -13,15 +13,23 @@ objectif eclaisir les données sur cette mistérieuse explosion.
 
 après la ligue pokémon
 
-3. Saga des Capitaines
+3. Saga des Capitaines (83 - 85 - 85 - 87 - 87 - 89)
  3.1 - Ariane (laboratoire Kigali Nord) - Magnezone
  3.2 - Amos (Mont. Nyakabanda) - Maganon
- 3.3 - Lambda (Ischwa Island) - Hyporoi
+ 3.3 - Lambda (Ischwa Island) - Tarpeau
  3.4 - Lance (Mont. Mugogwe) - Elecable
 
-4. Agents spéciaux (ruines Nyamisangi)
- 4.1 - Jessie (Hyporoi)
- 4.2 - James (Steelix)
+4. Agents spéciaux (ruines Nyamisangi) / (85 - 87 - 87 - 89 - 89 - 91)
+ 4.1 - Jessie (Leuphorie, Rinastock)
+ 4.2 - James (Roigada, Steelix)
 
-5. Giovanni (Mont Nyamisangi)
- 5.1 - Persian, Nostenfer, Kabutops, Hyporoi, Rinastock, Steelix
+5. Giovanni (Mont Nyamisangi) (87 - 89 - 89 - 91 - 91 - 93) / (89 - 91 - 91 - 93 - 93 - 95)
+ 5.1 - Maganon, Elecable, Roigada, Magnezone, Tarpeau, Leuphorie
+ 5.2 - Persian, Nostenfer, Cysayox, Hyporoi, Rinastock, Steelix
+
+6. Muked (91 - 93 - 93 - 95 - 95 - 97) / (95 - 97 - 98 - 99 - 99 - 100)
+ 6.1 - Tartard, Alakazam, Tortank, Rinastock, Leviator, Florizarre (post ligue)
+ 6.2 - Tarpaud, Porygon 2, Dracolosse, Rinastock, Hyporoi, Dracaufeu (deuxième combat- post ligue 2)
+
+7. Red (93 - 95 - 95 - 97 - 97 - 99) -> accès deuxième ligue
+ 7.1 Starters, Ptéra, Dracolosse, Dracolosse
