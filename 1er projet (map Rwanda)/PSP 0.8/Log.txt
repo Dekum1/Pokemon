@@ -1,20 +1,22 @@
----------- Erreur de script : Pokemon_Item_Bag ----------
+---------- Erreur de script : Pokemon ----------
 ----- Type
-NoMethodError
+ZeroDivisionError
 
 ----- Message
-- ARGS - [0]
-undefined method `[]' for nil:NilClass
+divided by 0
 
------ Position dans Pokemon_Item_Bag
-Ligne 581
+----- Position dans Pokemon
+Ligne 689
 
 ----- Backtrace
-Script : Pokemon_Item_Bag | Ligne : 581 | Méthode : in `item_id'
-Script : Pokemon_Item_Bag | Ligne : 588 | Méthode : in `item_icon'
-Script : Pokemon_Item_Bag | Ligne : 288 | Méthode : in `refresh'
-Script : Pokemon_Item_Bag | Ligne : 151 | Méthode : in `update'
-Script : Pokemon_Item_Bag | Ligne : 131 | Méthode : in `main'
-Script : Pokemon_Item_Bag | Ligne : 115 | Méthode : in `loop'
-Script : Pokemon_Item_Bag | Ligne : 134 | Méthode : in `main'
+Script : Pokemon | Ligne : 689 | Méthode : in `/'
+Script : Pokemon | Ligne : 689 | Méthode : in `exp_calculation'
+Script : Pokemon_Battle_Trainer | Ligne : 604 | Méthode : in `exp_battle'
+Script : Pokemon_Battle_Trainer | Ligne : 588 | Méthode : in `each'
+Script : Pokemon_Battle_Trainer | Ligne : 588 | Méthode : in `exp_battle'
+Script : Pokemon_Battle_Trainer | Ligne : 371 | Méthode : in `end_battle_check'
+Script : Pokemon_Battle_Core 1 | Ligne : 413 | Méthode : in `update'
+Script : Pokemon_Battle_Core 1 | Ligne : 153 | Méthode : in `main'
+Script : Pokemon_Battle_Core 1 | Ligne : 150 | Méthode : in `loop'
+Script : Pokemon_Battle_Core 1 | Ligne : 157 | Méthode : in `main'
 Script : Main | Ligne : 57
