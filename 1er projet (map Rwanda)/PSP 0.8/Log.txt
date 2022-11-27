@@ -1,21 +1,18 @@
----------- Erreur de script : Pokemon ----------
+---------- Erreur de script : Pokemon_Battle_Core 2 ----------
 ----- Type
-ZeroDivisionError
+TypeError
 
 ----- Message
-divided by 0
+no implicit conversion from nil to integer
 
------ Position dans Pokemon
-Ligne 689
+----- Position dans Pokemon_Battle_Core 2
+Ligne 1699
 
 ----- Backtrace
-Script : Pokemon | Ligne : 689 | Méthode : in `/'
-Script : Pokemon | Ligne : 689 | Méthode : in `exp_calculation'
-Script : Pokemon_Battle_Trainer | Ligne : 604 | Méthode : in `exp_battle'
-Script : Pokemon_Battle_Trainer | Ligne : 588 | Méthode : in `each'
-Script : Pokemon_Battle_Trainer | Ligne : 588 | Méthode : in `exp_battle'
-Script : Pokemon_Battle_Trainer | Ligne : 371 | Méthode : in `end_battle_check'
-Script : Pokemon_Battle_Core 1 | Ligne : 413 | Méthode : in `update'
+Script : Pokemon_Battle_Core 2 | Ligne : 1699 | Méthode : in `[]'
+Script : Pokemon_Battle_Core 2 | Ligne : 1699 | Méthode : in `attack_action'
+Script : Pokemon_Battle_Core 1 | Ligne : 526 | Méthode : in `phase3'
+Script : Pokemon_Battle_Core 1 | Ligne : 409 | Méthode : in `update'
 Script : Pokemon_Battle_Core 1 | Ligne : 153 | Méthode : in `main'
 Script : Pokemon_Battle_Core 1 | Ligne : 150 | Méthode : in `loop'
 Script : Pokemon_Battle_Core 1 | Ligne : 157 | Méthode : in `main'
