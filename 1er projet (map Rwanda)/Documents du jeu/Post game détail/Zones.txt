@@ -1,0 +1,22 @@
+Pokemon (légendaire tenu par la team Rocket)
+Artikodin - { "NV" => 91, "MOVE" => ["ATTERRISSAGE", "BLIZZARD", "GLACIATION", "GRELE"] }
+Elector - { "NV" => 91, "MOVE" => ["ATERRISSAGE", "POUV.ANTIQUE", "BEC VRILLE", "FATAL-FOUDRE"] }
+Sulfura - { "NV" => 91, "MOVE" => ["ATTERRISSAGE", "RAPACE", "LANCE-SOLEIL", "CANICULE"] }
+Mew-Two - { "NV" => 96, "MOVE" => ["SOIN", "BALL'OMBRE", "COUPE PSYKO", "AURASPHERE"] }
+
+
+Zone électrique
+ - Raitchu ; Electec
+ - Elecable (herbes violettes) + electec, metamorph
+
+Zone chaude
+ - Magmar ; Ptera
+ - Maganon (herbes violettes) + magmar, metamorph
+
+Zone glaciaire
+ - Hypocean ; Loklass
+ - Tarpeau (herbes violettes) + pitard, tétard, tartard
+
+Zone Cimetière (herbes noires)
+ - Ectoplasma ; Kangourex ; Tauros, Ronflex
+ - tous les pokémons spéciaux
