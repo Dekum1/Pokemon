@@ -55,7 +55,9 @@ Post Red ; Mewtwo est capturable
 9. Muked, combat final (91 - 93 - 93 - 95 - 95 - 97) / (93 - 95 - 95 - 97 - 97 - 99) / (97 - 98 - 98 - 99 - 99 - 99) + mew (100)
  9.1 - Tarpeau, Alakazam, Tortank, Rinastock, Leviator, Dracaufeu
  9.2 - Florizarre, Porygon 2, Dracolosse, Steelix, Hyporoi, Dracaufeu
- 9.3 - Hyporoi, Dracaufeu, Dracolosse, ??? Elector, Sulfura, Artikodin ???
+ 9.3 - Hyporoi, Dracaufeu, Dracolosse, Raiku, Eintei, Suicune
  9.4 - Mew
+
+ 9.5 - HO-OH ; Lugia (100) --> après l'avoir battu possédant mew.
 
 Post Muked ; Mew deviens capturable
