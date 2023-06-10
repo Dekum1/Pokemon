@@ -52,6 +52,12 @@ Post Red ; Mewtwo est capturable
 	Leviator (Tonerre, Crocs givre, Morsure, Hydrocanon) 61
 	Dracaufeu (Canicule, Deflagration, Vol, Lance-flamme) 61
 	Dracolosse (Colere, Blizzard, queue de fer, hydroqueue) 67
+ 8.2 	Alakazam (Toxik, psyko, Prescience, Ball ombre) - 84
+	Tortank (Morsure, Luminocanon, Seisme, Hydrocanon) - 72
+	Florizarre (poudre dodo, lance-soleil, giga-sangsue, danse-fleur) 72
+	Leviator (Tonerre, Crocs givre, Morsure, Surf) 71
+	Dracaufeu (Boutefeu, Deflagration, Vol, Lance-flamme) 76
+	Dracolosse (Colere, Blizzard, queue de fer, hydroqueue) 73
 
 9. Muked, combat final (91 - 93 - 93 - 95 - 95 - 97) / (93 - 95 - 95 - 97 - 97 - 99) / (97 - 98 - 98 - 99 - 99 - 99) + mew (100)
  9.1 - Alakazam, Tortank, Leviator, Rinastock, Dracolosse, Dracaufeu

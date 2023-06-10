@@ -17,3 +17,5 @@ Pokemon
 
 { "NV" => 73, "MOVE" => ["GIGA IMPACT", "PSYKOUD'BOUL", "SEISME", "DANSE-FLEUR"] }
 { "NV" => 75, "MOVE" => ["SEISME", "ULTRALASER", "LANCE-FLAMME", "FATAL-FOUDRE"] }
+
+{ "NV" => 75, "MOVE" => ["SURF", "PSYKO", "AURASPHERE", "BLIZZARD"] }
