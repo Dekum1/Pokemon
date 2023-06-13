@@ -63,4 +63,4 @@
   $data_zone[54] = ["MONT NYAKABANDA", "panel3.png"]
   $data_zone[55] = ["ISCHWA ISLAND", "panel2.png"]
   $data_zone[56] = ["CAVERNE GLACE", "panel3.png"]
-  $data_zone[57] = ["ROUTE 16", "panel1.png"]
+  $data_zone[57] = ["ROUTE 16", "panel3.png"]
