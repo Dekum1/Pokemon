@@ -64,3 +64,4 @@
   $data_zone[55] = ["ISCHWA ISLAND", "panel2.png"]
   $data_zone[56] = ["CAVERNE GLACE", "panel3.png"]
   $data_zone[57] = ["ROUTE 16", "panel3.png"]
+  $data_zone[58] = ["RUINES NYAMISANGI", "panel4.png"]
