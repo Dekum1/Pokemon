@@ -8,15 +8,13 @@ Post ligue
  (1.5) - Muked (Forêt d'Akagera) - Tarpeau 86, Alakazam 87, Leviator 87, Rinoféros 88, Dracolosse 89, Dracaufeu 91.
 
 2. Agents spéciaux (ruines Nyamisangi) / (85 - 87 - 87 - 89 - 89 - 91) / (87 - 87 - 89 - 89 - 90 - 92) ... 4 combats à la suite + miaouss lv. 15
- 2.1 - Jessie (Leuphorie, Rinastock), Kabutops, Mockogneur, Nosferalto, Dracolosse
- 2.2 - James (Roigada, Steelix), Roucarnage, Ronflex, Onix, Insécatueur
+ 2.1 - Jessie (Leuphorie, Rinastock), Nosferalto, Kabutops, Mockogneur, Dracolosse
+ 2.2 - James (Roigada, Steelix), Insécatueur, Roucarnage, Ronflex, Ptéra
 
 3. Giovanni (Mont Nyamisangi) (87 - 89 - 89 - 91 - 91 - 93) / (89 - 91 - 91 - 93 - 93 - 95) + mewtwo (96)
- 3.1 - Maganon, Elecable, Roigada, Magnezone, Tarpeau, Leuphorie
- 3.2 - Persian, Nostenfer, Cysayox, Hyporoi, Rinastock, Steelix
+ 3.1 - Magnezone,Tarpeau,  Maganon, Elecable, Roigada, Leuphorie
+ 3.2 - Steelix, Rinastock, Persian, Nostenfer, Cysayox, Hyporoi
 
-4. Muked (91 - 93 - 93 - 95 - 95 - 97)
- 4.1 - Tarpeau, Alakazam, Leviator, Rinastock, Dracolosse, Dracaufeu
 
 Post Rocket ; oiseaux deviennent capturables
 
@@ -35,13 +33,14 @@ Post Rocket ; oiseaux deviennent capturables
  6.4 Arbock, Roigada, Tarpeau, Loklass, Leviator, Tortank
  6.5 Ossatueur, Triopiqueur, Keklee, Tygnon, Kangourex, Makogneur
  6.6 Papillusion, Canartichaud, Scarabrute, Rapasdepic, Nostenfer, Roucarnage
- 6.7 Voltrobe, Voltali, Elecable, Magnézone, Raitchu, dracolosse
+ 6.7 Voltrobe, Voltali, Elecable, Magnézone, Raitchu, Dracolosse
  6.8 Maganon, Nidoking, Nidoqueen, Elecable, Rinastock, Tauros
 
 7. Red (89 - 91 - 91 - 93 - 93 - 95) / (91 - 93 - 93 - 95 - 95 - 97) / (93 - 95 - 95 - 97 - 97 - 99)
  7.1 Ectoplasma, Noadkoko, Alakazam, Mackogneur, Roucarnage, Leviator
  7.2 Raitchu, Persian, Ronflex, Florizarre, Tortank, Dracaufeu
  7.3 Nostenfer, Rinastock, Steelix, Dracolosse, Hyporoi, Mewtwo
+
 
 Post Red ; Mewtwo est capturable
 
