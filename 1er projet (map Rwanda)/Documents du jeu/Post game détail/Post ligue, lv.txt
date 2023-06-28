@@ -7,16 +7,17 @@ Post ligue
  1.4 - Lance (Mont. Mugogwe) - Rafflesia, Tartard, paillusion, Kangourex, Ptéra,  Elecable
  (1.5) - Muked (Forêt d'Akagera) - Tarpeau 86, Alakazam 87, Leviator 87, Rinoféros 88, Dracolosse 89, Dracaufeu 91.
 
-2. Agents spéciaux (ruines Nyamisangi) / (85 - 87 - 87 - 89 - 89 - 91) / (87 - 87 - 89 - 89 - 90 - 92) ... 4 combats à la suite + miaouss lv. 15
+2. Agents spéciaux (Manoir) / (85 - 87 - 87 - 89 - 89 - 91) / (87 - 87 - 89 - 89 - 90 - 92) ... 4 combats à la suite + miaouss lv. 15
  2.1 - Jessie (Leuphorie, Rinastock), Nosferalto, Kabutops, Mockogneur, Dracolosse
  2.2 - James (Roigada, Steelix), Insécatueur, Roucarnage, Ronflex, Ptéra
 
-3. Giovanni (Mont Nyamisangi) (87 - 89 - 89 - 91 - 91 - 93) / (89 - 91 - 91 - 93 - 93 - 95) + mewtwo (96)
- 3.1 - Magnezone,Tarpeau,  Maganon, Elecable, Roigada, Leuphorie
- 3.2 - Steelix, Rinastock, Persian, Nostenfer, Cysayox, Hyporoi
+3. Giovanni (Manoir) (85 - 87 - 87 - 89 - 89 - 91) / (87 - 89 - 89 - 91 - 91 - 93) / (89 - 91 - 91 - 93 - 93 - 95) + mewtwo (96)
+ 3.1 - Dardargnant, Nidoqueen, Nidoking, Kangourex, Raitchu, Métamorph
+ 3.2 - Magnezone, Tarpeau,  Maganon, Elecable, Roigada, Leuphorie
+ 3.3 - Steelix, Rinastock, Persian, Nostenfer, Cysayox, Hyporoi
 
 
-Post Rocket ; oiseaux deviennent capturables
+Post Rocket ; oiseaux deviennent capturables, lv.91
 
 5. Ligue Lv. 2
  5.1 Krustabri, Lamantine, Smogogo, Loklass, Ectoplasma, Lipputu (79 - 81 - 81 - 83 - 83 - 85)
@@ -42,7 +43,7 @@ Post Rocket ; oiseaux deviennent capturables
  7.3 Nostenfer, Rinastock, Steelix, Dracolosse, Hyporoi, Mewtwo
 
 
-Post Red ; Mewtwo est capturable
+Post Red ; Mewtwo est capturable, lv.99
 
 8. Prof D (95 - 96 - 97 - 98 - 98 - 99)
  8.1 	Alakazam (Toxik, psyko, Prescience, Ball ombre) - 77
@@ -66,4 +67,4 @@ Post Red ; Mewtwo est capturable
 
  9.5 - Giratina (pour un autre combat)
 
-Post Muked ; Mew deviens capturable
+Post Muked ; Mew deviens capturable, lv.100
