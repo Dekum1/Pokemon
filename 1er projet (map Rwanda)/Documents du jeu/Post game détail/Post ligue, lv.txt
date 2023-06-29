@@ -11,10 +11,10 @@ Post ligue
  2.1 - Jessie (Leuphorie, Rinastock), Nosferalto, Kabutops, Mockogneur, Dracolosse
  2.2 - James (Roigada, Steelix), Insécatueur, Roucarnage, Ronflex, Ptéra
 
-3. Giovanni (Manoir) (85 - 87 - 87 - 89 - 89 - 91) / (87 - 89 - 89 - 91 - 91 - 93) / (89 - 91 - 91 - 93 - 93 - 95) + mewtwo (96)
+3. Giovanni (Manoir) (86 - 87 - 87 - 89 - 89 - 91) / (87 - 89 - 89 - 91 - 91 - 93) / (89 - 91 - 91 - 93 - 93 - 95) + mewtwo (96)
  3.1 - Dardargnant, Nidoqueen, Nidoking, Kangourex, Raitchu, Métamorph
  3.2 - Magnezone, Tarpeau,  Maganon, Elecable, Roigada, Leuphorie
- 3.3 - Steelix, Rinastock, Persian, Nostenfer, Cysayox, Hyporoi
+ 3.3 - Steelix, Rinastock, Nostenfer, Cysayox, Hyporoi, Persian
 
 
 Post Rocket ; oiseaux deviennent capturables, lv.91
@@ -52,17 +52,17 @@ Post Red ; Mewtwo est capturable, lv.99
 	Leviator (Tonerre, Crocs givre, Morsure, Hydrocanon) 61
 	Dracaufeu (Canicule, Deflagration, Vol, Lance-flamme) 61
 	Dracolosse (Colere, Blizzard, queue de fer, hydroqueue) 67
- 8.2 	Alakazam (Toxik, psyko, Prescience, Ball ombre) - 84
-	Tortank (Morsure, Luminocanon, Seisme, Hydrocanon) - 72
-	Florizarre (poudre dodo, lance-soleil, giga-sangsue, danse-fleur) 72
-	Leviator (Tonerre, Crocs givre, Morsure, Surf) 71
-	Dracaufeu (Boutefeu, Deflagration, Vol, Lance-flamme) 76
-	Dracolosse (Colere, Blizzard, queue de fer, hydroqueue) 73
+ 8.2 	Alakazam (Toxik, psyko, Prescience, Ball ombre) - 84, 88
+	Tortank (Morsure, Luminocanon, Seisme, Hydrocanon) - 72, 79
+	Florizarre (poudre dodo, lance-soleil, giga-sangsue, danse-fleur) 72, 77
+	Leviator (Tonerre, Crocs givre, Morsure, Surf) 71, 76
+	Dracaufeu (Boutefeu, Deflagration, Vol, Lance-flamme) 76, 82
+	Dracolosse (Colere, Blizzard, queue de fer, hydroqueue) 73, 80
 
 9. Muked, combat final (91 - 93 - 93 - 95 - 95 - 97) / (93 - 95 - 95 - 97 - 97 - 99) / (97 - 98 - 98 - 99 - 99 - 99) + mew (100)
  9.1 - Alakazam, Tortank, Leviator, Rinastock, Dracolosse, Dracaufeu
- 9.2 - Florizarre, Porygon 2, Dracolosse, Steelix, Hyporoi, Dracaufeu
- 9.3 - Hyporoi, Dracolosse, Dracaufeu, Raiku, Eintei, Suicune
+ 9.2 - Florizarre, Raitchu, Dracolosse, Steelix, Hyporoi, Dracaufeu
+ 9.3 - Dracolosse, Hyporoi, Porygon 2, Raiku, Eintei, Suicune
  9.4 - Mew
 
  9.5 - Giratina (pour un autre combat)
