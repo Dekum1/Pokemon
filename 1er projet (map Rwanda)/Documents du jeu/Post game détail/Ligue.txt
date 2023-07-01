@@ -10,7 +10,7 @@ Arènes :
 
 Ligue :
 1, Rachel - 81 / Glace + spectre (lipouttou)
-	Lamantine - 87 (eau + glace)		75
+	Lamantine - 87 (eau + glace)		75 -> Tarpeau (eau + glace)
 	Ectoplasma - 94 (spectre)		79
 	Smogogo - 110 (poison + spectre)	77
 	Lipoutou - 124 (glace + spectre)	81
@@ -19,7 +19,7 @@ Ligue :
 2, Ruben - 83 / Plante + poison (florizarre)
 	Florizarre - 3 (plante + poison)	83
 	Nidoking - 34 (sol + poison)		81
-	Nosferalto - 42 (poison + vol)		81 -> Nostenfer
+	Nosferalto - 42 (poison + vol)		81 -> Nostenfer (vol + poison)
 	Aéromite - 49 (féé + poison)		79
 	Saquedeneu - 114 (plante)		77
 	Grostadmorv - 89 (poison)		75
@@ -27,23 +27,23 @@ Ligue :
 3, Melvina - 85 / Feu + fée (feunard)
 	Raitchu - 26 (électrique + fée)		81
 	Mélodelfe - 36 (plante + fée)		79	
-	Feunard - 38 (feu + fée)		85
+	Feunard - 38 (feu + fée)		85 -> Maganon (feu + sol)
 	Arkanin - 59 (feu)			83
 	Galopa - 78 (feu + fée)			83
-	Leveinard - 113 (Normal + fée)		77 -> Hyporoi
+	Leveinard - 113 (Normal + fée)		77 
 
 4, Elise - 87 / Psy + ténèbres (Alakazam)
 	Roucarnage - 18 ( vol + psy)		85
 	Rattatac - 20 (normal + ténèbres)	79
 	Alakazam - 65 (psy + ténèbres)		87
-	Flagadoss - 80 (eau + psy)		83
+	Flagadoss - 80 (eau + psy)		83 -> Roigada (eau + psy)
 	Hypnomade - 97 (psy + normal)		85
 	M. Mime - 122 (psy)			81
 	
 5, Jonas - 5.1 - 89 / Acier (Tortank)
 	Tortank - 9 (eau + acier)		89
 	Triopiqueur - 51 (sol + acier)		83
-	Magneton - 82 (électrique + acier)	85 -> Magnezone
+	Magneton - 82 (électrique + acier)	85 -> Magnezone (électrique + acier)
 	Kraboss - 99 (eau + acier)		87
 	Tygnon - 107 (combat + acier)		87
 	Porygon - 137 (acier)			81
@@ -52,7 +52,7 @@ Ligue :
 	Dracaufeu - 6 (feu + dragon)		89
 	Sablairau - 28 (sol + dragon)		83
 	Noadkoko - 103 (plante + dragon)	87
-	Hypocean - 117 (eau + dragon)		85 -> Ptéra
+	Hypocean - 117 (eau + dragon)		85 -> Hyporoi (féé + dragon)
 	Leviator - 130 (eau + dragon)		89
 	Dracolosse - 149 (électrique + dragon)	91
 	
