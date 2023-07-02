@@ -1,19 +1,19 @@
----------- Erreur de script : Pokemon_Battle_Core 2 ----------
+---------- Erreur de script : Pokemon_Save ----------
 ----- Type
-FloatDomainError
+ArgumentError
 
 ----- Message
-Infinity
+time must be positive
 
------ Position dans Pokemon_Battle_Core 2
-Ligne 99
+----- Position dans Pokemon_Save
+Ligne 45
 
 ----- Backtrace
-Script : Pokemon_Battle_Core 2 | Ligne : 99 | Méthode : in `Integer'
-Script : Pokemon_Battle_Core 2 | Ligne : 99 | Méthode : in `run_able?'
-Script : Pokemon_Battle_Core 1 | Ligne : 1572 | Méthode : in `run'
-Script : Pokemon_Battle_Core 1 | Ligne : 367 | Méthode : in `update'
-Script : Pokemon_Battle_Core 1 | Ligne : 153 | Méthode : in `main'
-Script : Pokemon_Battle_Core 1 | Ligne : 150 | Méthode : in `loop'
-Script : Pokemon_Battle_Core 1 | Ligne : 157 | Méthode : in `main'
+Script : Pokemon_Save | Ligne : 45 | Méthode : in `at'
+Script : Pokemon_Save | Ligne : 45 | Méthode : in `initialize'
+Script : Pokemon_Menu | Ligne : 184 | Méthode : in `new'
+Script : Pokemon_Menu | Ligne : 184 | Méthode : in `update'
+Script : Pokemon_Menu | Ligne : 75 | Méthode : in `main'
+Script : Pokemon_Menu | Ligne : 72 | Méthode : in `loop'
+Script : Pokemon_Menu | Ligne : 86 | Méthode : in `main'
 Script : Main | Ligne : 57
