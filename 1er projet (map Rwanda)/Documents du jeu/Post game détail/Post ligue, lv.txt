@@ -29,13 +29,13 @@ Post Rocket ; oiseaux deviennent capturables, lv.1
 
 6. Café des dresseurs lv. 2 (89 - 91 - 91 - 93 - 93 - 95)
  6.1 Rattatack, Grodoudou, Excelangue, Leuphorie, Metamorph, Ronflex
- 6.2 Armonistar, Grolem, kabutops, Steelix, Rinastock, Ptéra
- 6.3 Parasect, Papillusion, Dardargnan, Scarabrute, Cysayox, Kabutops
- 6.4 Arbock, Roigada, Tarpeau, Loklass, Leviator, Tortank
+ 6.2 Armonistar, Grolem, kabutops, Ptéra, Steelix, Rinastock
+ 6.3 Parasect, Papillusion, Dardargnan, Scarabrute, Kabutops, Cysayox
+ 6.4 Arbock, Roigada, Loklass, Tarpeau, Leviator, Tortank
  6.5 Ossatueur, Triopiqueur, Keklee, Tygnon, Kangourex, Makogneur
  6.6 Papillusion, Canartichaud, Scarabrute, Rapasdepic, Nostenfer, Roucarnage
  6.7 Voltrobe, Voltali, Elecable, Magnézone, Raitchu, Dracolosse
- 6.8 Maganon, Nidoking, Nidoqueen, Elecable, Rinastock, Tauros
+ 6.8 Grolem, Nidoking, Maganon,  Elecable, Tauros, Rinastock
 
 7. Red (89 - 91 - 91 - 93 - 93 - 95) / (91 - 93 - 93 - 95 - 95 - 97) / (93 - 95 - 95 - 97 - 97 - 99)
  7.1 Ectoplasma, Noadkoko, Alakazam, Mackogneur, Roucarnage, Leviator

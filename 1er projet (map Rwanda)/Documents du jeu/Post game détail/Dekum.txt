@@ -1,6 +1,6 @@
 8. Prof D (95 - 96 - 97 - 98 - 98 - 99)
 
-8.1 	Alakazam (Toxik, psyko, Prescience, Ball ombre) - 77 -- Post ligue lv.1
+8.1 + 	Alakazam (Toxik, psyko, Prescience, Ball ombre) - 77 -- Post ligue lv.1
 	Tortank (Morsure, Luminocanon, Seisme, Hydrocanon) - 62
 	Florizarre (poudre dodo, lance-soleil, giga-sangsue, danse-fleur) 61
 	Leviator (Tonerre, Crocs givre, Morsure, Hydrocanon) 61
@@ -21,7 +21,7 @@
 	Dracaufeu (Boutefeu, Deflagration, Vol, Lance-flamme) 82
 	Dracolosse (Colere, Blizzard, queue de fer, hydroqueue) 80
 
-8.4	Alakazam (Toxik, psyko, Mitra-poing, Ball ombre) - 89 -- post league lv. 2
+8.4 +	Alakazam (Toxik, psyko, Mitra-poing, Ball ombre) - 89 -- post league lv. 2
 	Tortank (Ultralaser, Luminocanon, Seisme, Hydrocanon) - 80
 	Florizarre (Poudre dodo, Bomb-beurk, Giga-sangsue, Danse-fleur) 78
 	Leviator (Fatal-foudre, Crocs givre, Vibraqua, Surf) 78
