@@ -27,3 +27,10 @@
 	Leviator (Fatal-foudre, Crocs givre, Vibraqua, Surf) 78
 	Dracaufeu (Boutefeu, Deflagration, Vol, Lance-flamme) 82
 	Dracolosse (Colere, Blizzard, queue de fer, Tomberoche) 80
+
+8.5	Alakazam (Toxik, psyko, Mitra-poing, Ball ombre) - 90 -- post red
+	Tortank (Ultralaser, Luminocanon, Seisme, Hydrocanon) - 82
+	Florizarre (Poudre dodo, Bomb-beurk, Giga-sangsue, Danse-fleur) 80
+	Leviator (Fatal-foudre, Crocs givre, Vibraqua, Surf) 80
+	Dracaufeu (Boutefeu, Deflagration, Vol, Lance-flamme) 83
+	Dracolosse (Colere, Blizzard, queue de fer, Tomberoche) 81

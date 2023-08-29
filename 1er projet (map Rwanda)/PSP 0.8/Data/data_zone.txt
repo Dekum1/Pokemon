@@ -67,4 +67,5 @@
   $data_zone[58] = ["RUINES NYAMISANGI", "panel4.png"]
   $data_zone[59] = ["FORET DE NYUNGWE", "panel2.png"]
   $data_zone[60] = ["ROUTE 17", "panel1.png"]
-  $data_zone[61] = ["MONT Nkanda", "panel3.png"]
+  $data_zone[61] = ["MONT NKANDA", "panel3.png"]
+  $data_zone[62] = ["MONT NYAMISANGI", "panel3.png"]
