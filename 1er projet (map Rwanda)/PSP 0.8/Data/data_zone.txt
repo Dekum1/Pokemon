@@ -70,3 +70,4 @@
   $data_zone[61] = ["MONT NKANDA", "panel3.png"]
   $data_zone[62] = ["MONT NYAMISANGI", "panel3.png"]
   $data_zone[63] = ["LAC IHEMA", "panel2.png"]
+  $data_zone[64] = ["CABANE NDEGO", "panel2.png"]
