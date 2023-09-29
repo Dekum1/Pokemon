@@ -1,0 +1,9 @@
+Des modifications ont été apportées sur la base de données. Les fichiers suivant se trouvant dans "updateBDD/BDD_PSPEvolved" sont concernés :
+- data_form.txt
+
+Ouvrez le fichier "data_form.txt" se trouvant dans le dossier "Data" pour voir les modifications
+Les modifications sont les suivantes :
+Soit X un nombre (l'ID des Pokémon)
+Remplacez tous les :
+:fX_30 par :fX_0_M1
+:fX_31 par : fX_0_M2

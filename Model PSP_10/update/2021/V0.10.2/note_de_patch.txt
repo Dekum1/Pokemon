@@ -1,0 +1,60 @@
+Version : PSPEvolved 0.10.2
+Pour installer manuellement le patch (nécessite d'être sur PSPEvolved 0.10.1), suivre les correctifs sur le Google Drive : https://drive.google.com/drive/folders/1L6BuxIrGYgc31-2PzqiY5gLLNvqerciq?usp=sharing
+
+La base de donnée a été modifiée, voir maj_bdd.txt pour plus d'informations (installation via ConvertisseurBDD à faire)
+Des ressources graphiques ont été modifiés / ajoutées, voir maj_images.txt pous plus d'informations (installation manuelle obligatoire)
+Des fichiers de configurations ont été modifiés, voir maj_config.txt pour plus d'informations (installation manuelle obligatoire)
+Des évènements communs ont été modifiés, voir maj_evenement_commun.txt pour plus d'informations (installation manuelle obligatoire - les corrections des évènements communs ne sont pas spécifiés dans ce fichier)
+
+Pour voir les scripts qui ont été modifiés, voir le fichier scripts.txt
+
+/!\ Suivez les indications dans scripts.txt en priorité /!\
+
+Corrections Starter-Kit : 
+- Amélioration et Optimisation de ConvertisseurBDD : Suppression de "@classes_no" dans le fichier UpdateBDD/exceptions.txt.
+  Désormais les classes seront gérées comme Enemies sur "@enemies_no".
+  Exemple : La fusion entre 2 BDD qui possèdent un pikachu vont à la fois modifier les détails de Pikachu (Enemies.rxdata) et ces caractéristiques
+  (Classes.rxdata). Avant cela était fait sur 2 itérations au lieu d'une
+  Ajout de messages pour suivre l'avancement de la fusion entre 2 bases de données
+- Corrections Base de données : Correction des caractéristiques des Pokémon, des Pokémon et des attaques en base de données, des CT/CS et des objets. Toutes n'étaient pas correctes, pour plus de précisions voir : https://trello.com/c/lQUdnWQA/163-0102-2-corrections-bdd
+  Concernant les CT/CS il existait plusieurs slaves mais elles n'étaient pas toutes définies pour les caractéristiques des Pokémon.
+  La slave 2 a été supprimées : Dans Armes il s'agit des lignes 134 à 233.
+  Par conséquence des CT ont été supprimés dans Objets : les lignes 639 à 738
+  Vous pouvez personnaliser la liste des CT/CS pour vos projets cela ne pose aucun problème. Comme cette slave n'était pas fonctionnelle,
+  il était préférable de les retirer. (une fusion par ConvertisseurBDD, ne les retirera pas de votre projet)
+- Correction de la liste des méga-évolutions : liste désormais correcte
+- Correction de l'affichage des sprites : les Pokémon shiny et les formes apparaissent désormais correctement de dos en combat
+- Corrections des types et des stats des Formes d'Alola et des Méga-Evolution : reprise des statistiques de PSP 0.9.4 (qui avaient été supprimées)
+- Correction Bug éditeur tileset : Le jeu pouvait planter lorsqu'on augmentait la valeur d'un systemtag sur l'éditeur de tags (accès par F7 après avoir lancé son jeu sur RPG Maker XP)
+- Suppression Reste Ancien Pokédex : 2 lignes du Pokédex de PSP 0.9.4 faisaient planter le jeu, elles ont été retirées
+- Correction Vent Féérique et Force Ajoutée : Modification de la cible en BDD (Compétences)
+- Correction Embargo : Un crash se produisait lors du check de la Baie Lansat
+- Correction Tour Rapide : Un crash pouvait se produire quand un effet tel que chargeur se produisait avec Tour Rapide
+- Correction Pokédex Régional : Les numéros du Pokédex Régional ont été supprimés pour les Pokémon de la 6G/7G empêchant un message de s'afficher lorsqu'on allait sur le pokédex régional. 
+Les numéros du Pokédex Régional sont à mentionner dans vos fangames, par défaut PSPEvolved ne les mentionnent pas (tous les PM Max dans Ennemis sont à 0)
+- Correction description Feu d'Enfer
+- Correction mention Rival : il n'était plus possible dans Groupes de la BDD de mentionner le nom du rival en tant que nom de dresseur
+- Correction Talent Intimidation : Un crash se produisait quand un Pokémon avait le talent intimidation en combat
+- Correction Sprites Compilation : Les pokémon de dos et les pokémons suiveurs ne s'affichaient pas après avoir compilé le jeu
+- Ecran de Sauvegarde : Quand une image est affichée, l'écran de sauvegarde était masqué derrière l'image, il apparait désormais devant
+- Animation Menu : Les Pokémon animés dans le menu sont désormais désactivés par défaut. Pour les avoir, il faut activer l'interrupteur 10
+- user_last_skill non initialisé : En script, une variable non initialisé faisait planter le jeu après des attaques comme Destruction
+- Désactiver les ombres sur la map : Quand les ombres étaient désactivés par l'interrupteur 62, il fallait changer de map pour voir les effets, c'est désormais immédiat
+- Taux shiny : le taux est passé de 8092 à 4096 (taux de la 6G)
+- Modifier la couleur d'un Window_Command : un composant en script Window_Command n'avait pas la possibilité d'avoir une autre couleur que "normal_color"
+- Correction Bug Recuperation Jour : Un bug se produisait quand la méthode TIMESYS.get_name_day était appellé (en script ou en event)
+- Correction Talent Calque : Le Pokémon utilisant Calque ne retrouvait pas toujours son talent. De plus il était possible de calquer le talent Calque faisant freeze le jeu
+- Correction Rétablissement Vitesse : Quand la vitesse de déplacement était changé en event, après avoir utilisé la carte, la bicyclette ou les chaussures de sports, la vitesse de jeu de base était remise (4) et pas la vitesse de déplacement précédemment changé
+- Correction Map Pokédex : La vitesse de déplacement était à 6 sur le pokédex et le pokémon suivant le dresseur s'affichait dessus. De plus il était possible de "courrir" sur la map
+- Correction Implore, Larcin et Sabotage : Le Pokémon subissant ces attaques pouvaient perdre définitivement son objet
+- Correction Morphing : Le pokémon utilisant cette attaque pouvait avoir ces statistiques, son talent, ses ev, iv et son type définitivement changé
+- Correction Icone Poison Menu : Quand un Pokémon était empoisonné grave, l'icône ne s'affichait que sur le 1er du menu
+- Correction Objet Pokémon Sauvage : Même en mentionnant un objet, un pokémon sauvage n'en tenait pas
+- Casse supportée pour les objets et les attaques en combat : Il est désormais possible de mentionner un objet de cette façon : "PoTiON" ou une attaque comme ça : "cHARge" et les bons objets / attaques seront quand même trouvées
+- Ajout des 7 Pokémon de la 7G manquants (803 à 809)
+
+Corrections Démo :
+- Les CS n'étaient pas autorisées après avoir battu Danny Phenton
+- PNJ Parc Safari : le PNJ parlait en boucle après être sortie du Parc Safari
+- Carte du monde PSPEvolved : la carte du monde de la partie de la démo PSP 0.9.2 remastered s'affichait au lieu de celle de la partie PSPEvolved
+- Bicyclette : on pouvait utiliser la Bicyclette dans les intérieurs

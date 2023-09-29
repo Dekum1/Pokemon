@@ -1,0 +1,7 @@
+Pour modifier / ajouter un évènement commun :
+créez un 2nd projet
+copiez le fichier "CommonEvents.rxdata" qui est dans "updateBDD/BDD_PSPEvolved" et mettez le dans le dossier "Data" de votre 2nd projet (écraser celui existant)
+Ouvrez votre 2nd projet et votre projet de base, il suffira juste de copier les évènements commun dans votre 2nd projet et de les coller (ajout ou écrasement d'évènement commun existant) dans votre projet de base
+
+Evènements Commun modifiés :
+- Tunnel : Tunnel était toujours autorisé d'utilisation après l'avoir utilisé

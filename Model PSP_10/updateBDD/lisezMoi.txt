@@ -1,0 +1,104 @@
+Bienvenue dans le dossier concernant la mise à jour de la base de données de votre projet.
+Ici seront traités les points suivants :
+1 - Dossiers à ne pas toucher
+2 - Mise à jour automatique de la base de données
+3 - Ajouter des exceptions
+4 - Mise à jour des fichiers de configuration (Dossier "Config_PSPEvolved")
+5 - Mise à jour des fichiers de données manuellement
+
+
+
+1 - Dossiers à ne pas toucher
+Il est important de ne pas toucher au contenu du dossier "BDD_PSPEvolved" et "Config_PSPEvolved". 
+Ce dossier contient les fichiers correspondant à la base de données d'origine de
+PSPEvolved. 
+A la racine, quand vous cliquez sur "LauncherUpdate.bat", ce dernier va chercher
+les mises à jours. Il va mettre à jour le contenu de ces 2 dossiers.
+
+
+
+2 - Mise à jour automatique de la base de données
+Vous pouvez mettre à jour les fichiers suivant que vous trouverez dans votre dossier "Data" :
+- Armors.rxdata
+- Classes.rxdata
+- Enemies.rxdata
+- Items.rxdata
+- Skills.rxdata
+- Weapons.rxdata
+Veuillez faire un copier de ces fichiers puis les coller dans le dossier "BDD_GAME".
+Si vous voulez mettre à jour seulement certains d'entre eux, sachez que ce n'est pas obligé de tous les mettres.
+ATTENTION : Faites bien un copier/coller, ne déplacez pas les fichiers ! Veillez toujours à garder
+une copie dans votre dossier "Data".
+A chaque mise à jour quelqu'elle soit, pensée également à faire une copie de tout votre dossier !
+Si un problème a lieu pendant la mise à jour et que vous n'avez pas fait de copie, vous pouvez tout perdre.
+
+Allumez RPG Maker XP, lancer le jeu depuis le logiciel et démarrez une nouvelle partie ou continuez une partie existante.
+Appuyez sur la touche "F7" (quelques fois il faut appuyer simultanément sur "FN" et "F7").
+Une fenêtre de texte va apparaître et après l'avoir fait défiler va vous demander de choisir quelles sont les
+générations Pokémon que vous voulez récupérer.
+
+Exemple : Votre jeu prend en compte tous les Pokémon jusqu'à la 5G (donc jusqu'au 649 : Kyurem). 
+Vous souhaitez ne pas avoir des pokémon au-délà. Vous allez donc choisir "Jusqu'à la 5G".
+Cependant imaginons que vous souhaitez avoir aussi les Pokémon de la génération suivante, vous allez donc choisir
+"Jusqu'à la 6G".
+
+Quelque soit l'action choisie, vos fichier dans "BDD_GAME" vont immédiatement se mettre à jour.
+Rapidement : que fait le programme ?
+Il va chercher toutes les entrées existantes dans votre projet qui existe également dans la base de données de PSPEvolved.
+Quelque soit l'ordre, elles seront toutes mises à jour sans perte de données pour votre projet. 
+Soyez donc tranquille, vous pouvez avoir une base de données ordonnées différements de celle de PSPEvolved, ça marchera toujours !
+
+
+
+3 - Ajouter des exceptions
+Il se peut que vous ayez personnalisé des pokémon, attaques, talents pour votre projet et que vous ne souhaitez pas les mettres
+à jour.
+Pour cela, vous bénéficiez du fichier "exceptions.txt" avec dedant :
+@enemies_no => Pour "Ennemis", là où sont vos Pokémon
+@skills_no => Pour "Compétences", là où sont vos attaques
+@items_no => Pour "Objets", là où sont vos objets
+@armors_no => Pour "Armures", là où sont vos talents
+@weapons_no => Pour "Armes", là où sont vos CT/CS
+
+Entre les crochets vous mettrez les n° des lignes en base de données séparées d'une virgule.
+
+Exemple : 
+Je ne veux pas que les attaques "ETREINTE" et "SOUPLESSES" (Dans "Compétences") soit mises à jours.
+En base de données, elles sont en position 20 et 21 respectivement.
+Ainsi pour empêcher des mises à jours de ces dernières il suffit de faire :
+@skills_no = [20, 21]
+
+
+
+4 - Mise à jour des fichiers de configuration (Dossier "Config_PSPEvolved")
+Le dossier "Config_PSPEvolved" vous présente les fichiers de configurations les plus à jours.
+Pour les mettres à jours pas le choix, il va falloir mettre à jour directement vos scripts
+(dossier "script" et appuyer sur "injectionScriptsPSPE.exe" après mise à jour OU depuis l'éditeur de scripts de RPG Maker XP).
+Prenez les éléments qui vous intéressez dans ces fichiers de configurations et ajoutez les dans les votre.
+
+N'hésitez pas à inspecter le dossier "update" qui vous liste les mises à jours au fur et à mesure et qui précise donc les ajouts
+effectués dans les fichiers de configuration.
+
+
+
+5 - Mise à jour des fichiers de données manuellement
+Les fichiers suivant ne peuvent pas se mettre à jour automatiquement :
+- Animations.rxdata
+- CommonEvents.rxdata
+- data_form.txt
+- date_item.txt
+- data_pokemon.txt
+
+Pour les ".rxdata" :
+Faites une copie de votre projet. Mettez les fichiers en question dans le dossier "Data" de votre projet copié.
+Allumez le logiciel RPG Maker XP de ce projet ET le logiciel RPG Maker XP de votre projet de base.
+Dans la base de données, copiez ce qui vous intéresse dans "Evènements Communs" et "Animations" de votre projet copié
+sur votre projet (et oui, à l'ancienne !).
+
+Pour les ".txt" :
+Ouvrez vos fichiers ".txt" dans votre dossier "Data".
+Ouvrez les ".txt" dans "BDD_PSPEvolved".
+Copiez les lignes que vous voulez de ce dernier vers ceux de vos ".txt" du dossier "Data".
+
+Comme précisé à la 4, n'hésitez pas à inspecter le dossier "update" qui vous liste les mises à jours au fur et à mesure et qui précise donc les ajouts
+faites dans chacun de ces fichiers.

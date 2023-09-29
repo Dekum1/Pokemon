@@ -1,0 +1,14 @@
+Version : PSPEvolved 0.10.3
+Pour installer manuellement le patch (nécessite d'être sur PSPEvolved 0.10.2), suivre les correctifs sur le Google Drive : https://drive.google.com/drive/folders/1OhgGnrVab5i1j3evF2TEqrzfR6g-C94F?usp=sharing
+
+Des fichiers de configurations ont été modifiés, voir maj_config.txt pour plus d'informations (installation manuelle obligatoire)
+Des évènements communs ont été modifiés, voir maj_evenement_commun.txt pour plus d'informations (installation manuelle obligatoire - les corrections des évènements communs ne sont pas spécifiés dans ce fichier)
+
+Pour voir les scripts qui ont été modifiés, voir le fichier scripts.txt
+
+/!\ Suivez les indications dans scripts.txt en priorité /!\
+
+Corrections Starter-Kit : 
+- Correction Window_Command pour les CS : tout les textes des fenêtres de choix passaient en plus quand une CS était précisé
+- Ajout interrupteur manquant : Interrupteur manquant à ajouter. Sinon fait crash le jeu dès le changement de map 
+- Correction Morphing : Une fois avoir utilisé Morphing et avoir switch le pokémon ayant utilisé morphing en combat, ce dernier gardait le comportement de morphing définitivement

@@ -1,0 +1,34 @@
+les scripts mis à jours se trouvent dans le dossier "scriptsUpdate".
+Pour les remplacer il suffit de remplacer les dossiers ou scripts dans le dossier "scripts".
+Puis exécuter "injectionScriptsPSPE.exe"
+
+Les scripts suivants ont été modifiés :
+- 999999_Main
+Dans le dossier "000000_SCRIPTS_RMXP" :
+	- 000001_Loading
+Dans le dossier "010000_SYSTEME_GENERAL" :
+	- 010003_SceneTitleSG
+	- 010008_MAP
+	- 010015_WindowCommand
+	- 010018_PokemonSave
+Dans le dossier "040000_DATABASE" :
+	- 040001_LoadData
+	- 040004_LoadGroup
+	Dans le dossier "040100_POKEMON" :
+		- 040101_PokemonInfo
+	Dans le dossier "040500_ITEMS" :
+		- 040501_Item
+Dans le dossier "060000_GESTION_POKEMON" :
+	- 060001_Pokemon
+Dans le dossier "110000_BATTLE_CORE" :
+	- 110009_PokemonBattleFlee
+	Dans le dossier "110200_PREPOSTROUNDS" :
+		- 110201_PokemonBattlePrePostRounds
+	Dans le dossier "110300_OBJETS" :
+		- 110303_PokemonObjectsVerif
+Dans le dossier "120000_POKEDEX" :
+	- 120001_PokemonPokedex
+	- 120002_PokemonDetail
+	- 120005_Pokedex
+Dans le dossier "700000_AUTRES" :
+	- 700003_InterpreterAjouts

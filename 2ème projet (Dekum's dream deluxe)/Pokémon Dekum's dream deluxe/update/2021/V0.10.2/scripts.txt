@@ -1,0 +1,55 @@
+les scripts mis à jours se trouvent dans le dossier "scriptsUpdate".
+Pour les remplacer il suffit de remplacer les dossiers ou scripts dans le dossier "scripts".
+Puis exécuter "injectionScriptsPSPE.exe"
+
+Les scripts suivants ont été modifiés :
+- 999999_Main.rb
+Dans le dossier "000000_SCRIPTS_RMXP" :
+	Dans le dossier "000100_GAMESOBJECTS" :
+		- 000120_GameCharacter2.rb
+Dans le dossier "010000_SYSTEME_GENERAL" :
+	- 010003_SceneTitleSG.rb
+	- 010005_SceneMapSG.rb
+	- 010008_MAP.rb
+	- 010011_GamePlayerSG.rb
+	- 010015_WindowCommand.rb
+	- 010016_Interpreter.rb
+	- 010018_PokemonSave.rb
+	- 010019_Ruby.rb
+Dans le dossier "020000_DEBUG" :
+	- 020001_SceneDebug.rb
+	- 020010_TilesetEdit.rb
+	- 020012_CONVERTISSEURBDDMenu.rb
+	- 020013_CONVERTISSEURBDDAction.rb
+Dans le dossier "050000_SYSTEME_POKEMON" :
+	Dans le dossier "050100_MENU" :
+		- 050106_PokemonPartyWindows.rb
+Dans le dossier "060000_GESTION_POKEMON" :
+	- 060001_Pokemon.rb
+	- 060006_PokemonMethodsInterface.rb
+Dans le dossier "070000_GESTION_GENERAL" :
+	- 070003_PokemonParty.rb
+Dans le dossier "110000_BATTLE_CORE" :
+	- 110002_PokemonBattleInterRounds.rb
+	- 110004_PokemonBattleMethods2.rb
+	- 110008_PokemonBattleEnd.rb
+	Dans le dossier "110200_PREPOSTROUNDS" :
+		- 110203_PokemonTalentsPrePostRounds.rb
+	Dans le dossier "110300_OBJETS" :
+		- 110301_PokemonBattleObjects.rb
+	Dans le dossier "110500_ATTAQUES" :
+		- 110506_PokemonPostAttack.rb
+		- 110510_PokemonAttacksDurationAnnexe.rb
+	Dans le dossier "110700_SYSTEMECOMBAT" :
+		- 110702_PokemonBattleWild.rb
+	Dans le dossier "110600_IA" :
+		- 110602_IAHitStatut.rb
+Dans le dossier "120000_POKEDEX" :
+	- 120001_PokemonPokedex.rb	
+	- 120002_PokemonDetail.rb
+Dans le dossier "700000_AUTRES" :
+	- 700010_TempsJourNuit.rb
+	- 700013_FollowerPkm.rb
+	- 700022_SpriteShadow.rb
+
+

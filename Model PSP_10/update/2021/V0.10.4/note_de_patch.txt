@@ -1,0 +1,25 @@
+Version : PSPEvolved 0.10.4
+Pour installer manuellement le patch (nécessite d'être sur PSPEvolved 0.10.3), suivre les correctifs sur le Google Drive : https://drive.google.com/drive/folders/1pAl0xoLbJY4y79YGJdm4uRgKngqKQu-q?usp=sharing
+
+La base de donnée a été modifiée, voir maj_bdd.txt pour plus d'informations (mise à jour de fichiers .txt)
+Des fichiers de configurations ont été modifiés, voir maj_config.txt pour plus d'informations (installation manuelle obligatoire)
+
+Pour voir les scripts qui ont été modifiés, voir le fichier scripts.txt
+
+/!\ Suivez les indications dans scripts.txts en priorité /!\
+
+Corrections Starter-Kit :
+- Correction d'un crash lors de l'utilisation de Deoxys en combat sous sa forme normal
+- Correction du Talent Fuite
+- Correction d'un crash pouvant se produire lors de l'utilisation du PPMax
+- Restructuration Pokédex
+- Possibilité de voir les pokémon femelle sur le Pokédex
+- Possibilité de voir les pokémon Méga-évolués sur le Pokédex
+- Temps de chargement réduit au démarrage
+- Correction d'un crash rare pouvant se produire lors de la sauvegarde
+- Correction attaque Requiem
+- Correction IA de base (non-configuré) lors de l'utilisation des Potions et Guerisons
+- Correction des Window Command : coloration du premier item d'une liste
+- Corrections Formes alternatives : définition des capacités apprenables par niveau, CT/CS, par reproductions
+- Ajout du extendtext.exe pour agrandir les fenêtres de RPG Maker XP (par Peter 0)
+- Ajout des Fonts qui ont été supprimés dans PSPEvolved 0.10.4 à la racine du projet

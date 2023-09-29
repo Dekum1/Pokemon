@@ -1,19 +1,22 @@
----------- Erreur de script : Pokemon_Save ----------
+---------- Erreur de script : Scene_Title ----------
 ----- Type
-ArgumentError
+Errno::ENOENT
 
 ----- Message
-time must be positive
+No such file or directory - Save2.rxdata
 
------ Position dans Pokemon_Save
-Ligne 45
+----- Position dans Scene_Title
+Ligne 447
 
 ----- Backtrace
-Script : Pokemon_Save | Ligne : 45 | Méthode : in `at'
-Script : Pokemon_Save | Ligne : 45 | Méthode : in `initialize'
-Script : Pokemon_Menu | Ligne : 184 | Méthode : in `new'
-Script : Pokemon_Menu | Ligne : 184 | Méthode : in `update'
-Script : Pokemon_Menu | Ligne : 75 | Méthode : in `main'
-Script : Pokemon_Menu | Ligne : 72 | Méthode : in `loop'
-Script : Pokemon_Menu | Ligne : 86 | Méthode : in `main'
+Script : Scene_Title | Ligne : 447 | Méthode : in `initialize'
+Script : Scene_Title | Ligne : 447 | Méthode : in `open'
+Script : Scene_Title | Ligne : 447 | Méthode : in `read_preview'
+Script : Scene_Title | Ligne : 400 | Méthode : in `refresh_all'
+Script : Scene_Title | Ligne : 384 | Méthode : in `each'
+Script : Scene_Title | Ligne : 384 | Méthode : in `refresh_all'
+Script : Scene_Title | Ligne : 340 | Méthode : in `update'
+Script : Scene_Title | Ligne : 319 | Méthode : in `main'
+Script : Scene_Title | Ligne : 316 | Méthode : in `loop'
+Script : Scene_Title | Ligne : 323 | Méthode : in `main'
 Script : Main | Ligne : 57

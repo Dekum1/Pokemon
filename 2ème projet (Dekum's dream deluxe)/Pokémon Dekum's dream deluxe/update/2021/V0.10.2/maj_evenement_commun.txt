@@ -1,0 +1,16 @@
+Pour modifier / ajouter un évènement commun :
+créez un 2nd projet
+copiez le fichier "CommonEvents.rxdata" qui est dans "updateBDD/BDD_PSPEvolved" et mettez le dans le dossier "Data" de votre 2nd projet (écraser celui existant)
+Ouvrez votre 2nd projet et votre projet de base, il suffira juste de copier les évènements commun dans votre 2nd projet et de les coller (ajout ou écrasement d'évènement commun existant) dans votre projet de base
+
+Evènements Commun modifiés :
+- Event de retour : pokédex régional n'est plus activé de force, le joueur ne se retrouve plus en mode bicyclette ou surf sur le centre Pokémon
+- Bicyclette : Modification des apparences (en lien avec maj_images.txt)
+- Début Canne : refait et Modification des apparences (en lien avec maj_images.txt)
+- Canne : refait
+- Super Canne : refait
+- Méga Canne : refait
+- Fin canne : Modification des apparences (en lien avec maj_images.txt)
+- Apparence Normal : Modification des apparences (en lien avec maj_images.txt)
+- Collision : lorsqu'on fait des déplacements automatique, ces derniers ne sont plus stoppés. Les collisions sont moins sensiblent
+- Corde Sortie : Erreur de syntaxe corrigée

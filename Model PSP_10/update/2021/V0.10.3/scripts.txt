@@ -1,0 +1,7 @@
+les scripts mis à jours se trouvent dans le dossier "scriptsUpdate".
+Pour les remplacer il suffit de remplacer les dossiers ou scripts dans le dossier "scripts".
+Puis exécuter "injectionScriptsPSPE.exe"
+
+Les scripts suivants ont été modifiés :
+Dans le dossier "010000_SYSTEME_GENERAL" :
+	- 010015_WindowCommand.rb

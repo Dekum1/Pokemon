@@ -1,0 +1,53 @@
+Les images ne sont pas récupérées automatiquement par les mises à jours. Il faut les installer manuellement quand il y a des ajouts / corrections
+Il n'est plus possible de donner des noms d'images avec accents dans le dossier "Graphics/Characters" (bug sinon lorsqu'on fait "Compiler" dans SceneDebug).
+Par convention : ne laissez pas de caractères spéciaux, d'espaces ou d'accents dans le noms de vos fichiers. Cela peut poser d'éventuel problème.
+Par conséquent dans le dossier "Graphics/Characters", supprimez les images suivantes :
+Héro_Marche.png
+Héro_Marche_sport.png
+Héro_Pêche.png
+Héro_Surf.png
+Héro_Surfpêche.png
+Héro_Vélo.png
+Héroïne_Marche.png
+Héroïne_Marche_sport.png
+Héroïne_Pêche.png
+Héroïne_Surf.png
+Héroïne_Surfpêche.png
+Héroïne_Vélo.png
+Léo.png
+Méga-Gemme.png
+panneau centre pokémon aniù.png
+Poké Balls.png
+pokéboule.png
+Et mettez-y à la place les images se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1j4Vd-0XRM7v9pP-nYfDyoqFSbhTKb_tb?usp=sharing
+
+Les 7 Pokémon de la 7G ont été ajoutés, des Pokémon de la 7G et des formes d'Alola n'étaient pas dans le bon format :
+Dans le dossier "Graphics/Battlers/Back_Male" copiez/collez le contenu se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1cJ1jn7O3-wwhFVSqLerBIBR0bGeq7qeO?usp=sharing
+Dans le dossier "Graphics/Battlers/Front_Male" copiez/collez le contenu se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1VVH3CxCZkOKI85URRy2DQsBWAFmqubl-?usp=sharing
+Dans le dossier "Graphics/Battlers/Shiny_Front_Male" copiez/collez le contenu se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1znm6MtNsQo_m0VWQWMrmL80o8fASk36G?usp=sharing
+Dans le dossier "Graphics/Battlers/Icon" (excepté dossier Anime) copiez/collez le contenu sur trouvant sur le Google Drive : https://drive.google.com/drive/folders/18AbZvBbV19B4Vw318urfx5dcnFVEu_ou?usp=sharing
+
+Ajout d'icones animés de la 6G :
+Dans le dossier "Graphics/Battlers/Icon/Anime" copiez/coller le contenu se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1qkLH2G-ij8hKBYULTH26T0Z9H8d0wx7G?usp=sharing
+
+Les pokémon de dos shiny avaient un formats incorrectes ou n'étaient pas tous présents, en plus du fait que des pokémon de la 7G ont été ajoutés 
+et que des formes d'Alola n'étaient pas dans le bon format :
+Dans le dossier "Graphics/Battlers/Shiny_Back_Female", supprimez les fichiers suivants :
+003.png
+029.png
+030.png
+031.png
+113.png
+115.png
+124.png
+238.png
+241.png
+242.png
+314.png
+380.png
+460.png
+et copiez/collez le contenu se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1uqD5BegdrjNtcJiDFGRRBltanaVXbxMo?usp=sharing
+Dans le dossier "Graphics/Battlers/Shiny_Back_Male" copiez/collez le contenu se trouvant sur le Google Drive : https://drive.google.com/drive/folders/1rA1NpPsPOF5ebWpvabKct_zqkU0CbHns?usp=sharing
+
+Une fois tout cela fait, lancez votre jeu et faites "Continuer" ou "Nouvelle Partie" et attendez d'être sur une map.
+Une fois sur une map, lancez le Menu Debug en appuyant sur la touche "F9" puis une fois dessus appuyez sur la touche "A" et faites "Compiler" puis "Maj BDD". Puis fermez RPG Maker XP pour ne pas écraser les modifications effectuées par le Menu Debug.

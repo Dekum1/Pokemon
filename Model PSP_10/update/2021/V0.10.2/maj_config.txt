@@ -1,0 +1,21 @@
+Les scripts se trouvant dans la partie "CONFIGURATION" et "MODULABLE" dans le dossier "scripts" ou dans l'éditeur de scripts de RPG Maker XP
+ne sont pas automatiquement mis à jour : ils sont prévues afin que vous puissiez directement les modifier.
+
+Des modifications ont eu lieu pour cette mise à jour vous devez les installer manuellement. Si vous n'avez pas fait de modification dans les scripts suivants :
+- PokemonCustom
+- GestionSwitchesVariables
+Dans le dossier "updateBDD/Config_PSPEvolved/14000_MODULABLE" copiez les fichiers "140004_Pokemon_Custom.rb" et "140006_Mega_evo.rb" et puis collez les dans "scripts/14000_MODULABLE"
+Dans le dossier "updateBDD/Config_PSPEvolved/03000_CONFIGURATION" copiez le fichier "030006_Gestion_Switches_Variables.rb" et collez le dans "scripts/030000_CONFIGURATION"
+Puis exécutez "injectionScriptsPSPE.exe" pour générer le nouveaux Scripts.rxdata
+
+Installation manuelle :
+Dans Gestion_Switches_Variables, ajoutez à la liste des interrupteurs les suivants :
+# Animation des Pokémon du menu
+ANIMATION_MENU = 10
+# Indique que la canne peut être possible (automatique)
+AUTORISE_CANNE = 51
+
+Pour Pokemon_Custom et MegaEvo suivez les fichiers suivants (à ouvrir avec un bloc_notes ou un éditeur de scripts comme notepad++) dans le dossier "A installer manuellement" :
+MegaEvo_MegaEvolutionCorrection.rb
+PokemonCustom_MegaEvolutionFormesAlolaStatsCorrection.rb
+PokemonCustom_MorphingCorrection.rb

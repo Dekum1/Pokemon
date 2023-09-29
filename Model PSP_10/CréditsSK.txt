@@ -1,0 +1,244 @@
+[RMXP] Pokemon Script Project
+
+Créé par :
+Krosk
+
+[PSPE] Version 0.10.3 - 27/11/2021
+
+Contributeurs internes :
+Responsable :
+Damien Linux
+
+Scripts :
+Damien Linux
+Danny Phenton
+FL0RENT_
+G!n0
+Katsuki
+Layfon Dogma
+Lizen
+Metaiko
+Palbolsky
+Symbioss
+yyyyj
+
+Animations :
+Metaiko
+
+Events :
+Danny Phenton
+Eurons
+
+Ressources ;
+Layfon Dogma
+
+Corrections diverses :
+Katsuki
+Metaiko
+Symbioss
+yyyyj
+ralandel
+
+Tests :
+Damien Linux
+Katsuki
+Layfon Dogma
+Metaiko
+Symbioss
+
+Contributeurs externes :
+Scripts :
+Azizcan
+Aerun
+Empire1601
+Krosk
+Leikt
+Louro
+maror
+Nathmatt
+Nuri Yuri
+PokeProject
+Redder
+Sphinx
+Therand
+Tokeur
+Washunga
+Youspin
+Zeus81
+
+Base de données :
+The-Elric
+
+Ressources - Projet Smogon :
+AMVictory
+aXI
+Basic Vanillite
+Branflakes325
+erigl1996
+Espeon Scientist
+FlorianDX
+fishbowIsoul90
+G.E.Z.
+GeoisEvil
+Harrie
+HealInDeal
+HM100
+Kyleo
+Larryturbo
+Layell
+Legitimate Username
+leParagon
+MultiDiegoDani
+N-Kin
+Noscium
+paintseagull
+Pikafan2000
+princessofmusic
+RadicalCharizard
+RedRooster
+Siiilver
+TheAetherPlayer
+TheCynicalPoet
+Wobblebuns
+WolfPP
+Wyverii
+Zerudez
+
+extendtext :
+Peter 0
+
+Tests :
+Avori
+BladeRED
+
+[PSP] versions antérieures
+
+Responsables :
+Danny Phenton
+FL0RENT_
+Gold
+Krosk
+Leikt
+Nuri Yuri
+Palbolsky
+Rhenaud The Lukark
+Sphinx
+Zohran
+
+Scripts :
+Brendan75
+Danny Phenton
+Drakhaine
+FL0RENT_
+Krosk
+MoussPSP
+Néva
+Nuri Yuri
+Palbolsky
+Rhenaud the Lukark
+Solfay1
+Sphinx
+Tonyryu
+Youspin
+yyyyj
+
+Events :
+Danny Phenton
+Slash
+Symbioss
+
+Mapping :
+Slash
+
+Ressources :
+Bibiantonio
+Danny Phenton
+Guille-Kun
+Kezal
+Link
+Mortenkein
+
+Graphismes :
+Alex
+Bazaro
+Conyjams
+DatLopunnyTho
+Falaia of the Smogon S/M sprite project
+fishbowlsoul90
+Jan
+KaiserYoshi
+kaji atsu
+Koyo
+Leparagon
+Lord-Myre
+LuigiPlayer
+Mortenkein
+N-kin
+Noscium
+Pikafan2000
+princess-phoenix
+sansonic
+Smeargletail
+The cynical poet
+Zumi
+
+Animations d'attaques :
+Bibiantonio
+Ghioa
+Isomir
+KLNOTHINCOMIN
+Leparagon
+Metaiko
+
+BDD :
+DJStarmix
+FL0RENT_
+Speed
+Symbioss
+yyyyj
+
+Tests :
+BladeRED
+
+Carte dresseur :
+Louro
+
+Modèle Pokédex :
+Shaolan
+
+[PSP 0.4] Autres contributions :
+Ace
+BoOmxBig
+Denis bros
+Dymew
+Empire1601
+Endoh
+Ergg
+ITA
+Jordan
+Lén
+Light-PA
+Louro
+Midnitez-REMIX
+Miniyas
+Mister-k
+NT
+New Titeuf
+Pichou
+RMXPStudio
+Spiky
+TyranitarDark
+Warpras
+Wesker
+Zelda
+
+Sites de récupération des informations :
+Bulbapedia
+Pokepedia
+
+Licences (tous droits réservés) :
+Creature Inc.
+Enterbrain
+Game Freak
+Nintendo
+The Pokemon Company

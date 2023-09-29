@@ -1,0 +1,13 @@
+Les scripts se trouvant dans la partie "CONFIGURATION" et "MODULABLE" dans le dossier "scripts" ou dans l'éditeur de scripts de RPG Maker XP
+ne sont pas automatiquement mis à jour : ils sont prévues afin que vous puissiez directement les modifier.
+
+Des modifications ont eu lieu pour cette mise à jour vous devez les installer manuellement. Si vous n'avez pas fait de modification dans les scripts suivants :
+- PokemonCustom
+- FormesAlola
+Dans le dossier "updateBDD/Config_PSPEvolved/14000_MODULABLE" copiez les fichiers "140004_Pokemon_Custom.rb" et "140007_FormesAlola" et puis collez les dans "scripts/14000_MODULABLE"
+Puis exécutez "injectionScriptsPSPE.exe" pour générer le nouveaux Scripts.rxdata
+
+Ou alors suivez les correctifs suivants se trouvant dans le dossier "A installer manuellement" :
+	- "Crash Forme 0 Deoxys.rb"
+	- "FormesAlternatives"
+
