@@ -1,0 +1,24 @@
+Spécificités : + att.spé
+
+
+Liste des pokémon Feu pur :
+
+4 / 4 - Salamèche
+5 / 5 - Reptincel
+75 / 37 - Goupix
+104 / 58 - Caninos
+105 / 59 - Arkanin
+128 / 77 - Ponyta
+219 / 228 - Malosse
+244 / 163 - Pyroli
+
+Liste des pokémon type Feu combiné :
+
+6 / 6 - Dracaufeu
+76 / 38 - Feunard
+129 / 78 - Galopa
+214 / 240 - Magby
+215 / 126 - Magmar
+216 / 467 - Maganon
+220 / 229 - Démolosse
+270 / 146 - Sulfura
