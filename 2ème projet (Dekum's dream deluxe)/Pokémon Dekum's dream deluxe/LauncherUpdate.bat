@@ -1,3 +1,0 @@
-git checkout .
-git pull
-set /p DUMMY=PSPEvolved est a jour, appuyez sur ENTREE pour continuer...
