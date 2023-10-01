@@ -1,9 +1,33 @@
-Spécificités : /
+Spécificités : (PV *2)
 
 
-Liste des pokémon Noraml pur :
+Liste des pokémon Plante pur :
 
+1 / 1 - Bulbizarre
+2 / 2 - Herbizarre
+28 / 273 - Granipiot
+85 / 43 - Mystherbe
+94 / 48 - Mimitoss
+165 / 102 - Noeunoeuf
+191 / 114 - Saquedeneu
+192 / 465 - Bouldeneu
+247 / 470 - Phyllali
 
+Liste des pokémon type Plante combiné :
 
-Liste des pokémon type combiné :
-
+3 / 3 - Florizarre
+29 / 274 - Pifeuil
+30 / 275 - Tengalice
+31 / 270 - Nénupiot
+32 / 271 - Lombre
+33 / 272 - Nudicolo
+86 / 44 - Ortide
+87 / 45 - Rafflesia
+95 / 49 - Aéromite
+120 / 69 - Chétiflor
+121 / 70 - Boustiflor
+122 / 71 - Empiflor
+166 / 103 - Noadkoko
+232 / 459 - Blizzi
+233 / 460 - Blizaroi
+272 / 244 - Entei

@@ -1,9 +1,10 @@
-Spécificités : /
+Spécificités : 	Vitesse (*1.5)
+		Défense (*0.5)
 
 
-Liste des pokémon Noraml pur :
+Liste des pokémon Glace pur :
 
 
 
-Liste des pokémon type combiné :
+Liste des pokémon type Glace combiné :
 

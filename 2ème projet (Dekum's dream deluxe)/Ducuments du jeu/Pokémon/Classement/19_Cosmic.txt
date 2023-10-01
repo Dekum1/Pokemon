@@ -1,4 +1,7 @@
-Spécificités : /
+Spécificités : 	PV (*2.5)
+		Att. spé (*1.5)
+		Déf. spé (*1.5)
+		Vitesse (*1.5)
 
 
 Liste des pokémon Noraml pur :

@@ -1,4 +1,5 @@
-Spécificités : /
+Spécificités : 	Att (*2)
+		Déf (*1.5)
 
 
 Liste des pokémon Noraml pur :

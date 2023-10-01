@@ -1,4 +1,4 @@
-Spécificités : /
+Spécificités : empèche les restrictions négatives
 
 
 Liste des pokémon Noraml pur :
